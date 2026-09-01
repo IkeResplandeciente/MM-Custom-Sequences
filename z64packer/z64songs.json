@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -18245,13 +18245,12 @@
       "1",
       "6"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
+    "usesCustomBank": true,
     "file": "Phoenix Wright Ace Attorney/Jake Marshall ~ Renegade Sheriff.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Phoenix Wright Ace Attorney/Jake Marshall ~ Renegade Sheriff.mp3",
-    "lufs": "-17.12",
-    "hash": "3a5b0362c6b61958aaaffa4ff0985104"
+    "lufs": "-13.70",
+    "hash": "3a5b0362c6b61958aaaffa4ff0985104",
+    "lastUpdateDate": "2026-09-01T22:52:02.702Z"
   },
   {
     "uuid": "cc2de4b8-79d7-4f9e-a401-091ce0f684a2",
