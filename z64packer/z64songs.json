@@ -89443,5 +89443,27 @@
     "file": "Phoenix Wright Ace Attorney - Justice for All/Maya Fey - Turnabout Sisters 2002.mmrs",
     "preview": "Phoenix Wright Ace Attorney - Justice for All/Maya Fey - Turnabout Sisters 2002.mp3"
   },
+  {
+    "uuid": "d5ce705c-b24d-4f59-af3d-472007373de1",
+    "creationDate": "2026-09-02T00:46:23.654Z",
+    "game": "Phoenix Wright: Ace Attorney - Trials and Tribulations",
+    "song": "Elise Deauxnim ~ A Gentle Melody",
+    "composers": [
+      "Noriyuki Iwadare"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-16.12",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "Phoenix Wright Ace Attorney - Trials and Tribulations/Elise Deauxnim ~ A Gentle Melody.mmrs",
+    "preview": "Phoenix Wright Ace Attorney - Trials and Tribulations/Elise Deauxnim ~ A Gentle Melody.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
