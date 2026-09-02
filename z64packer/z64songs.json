@@ -89465,5 +89465,25 @@
     "file": "Phoenix Wright Ace Attorney - Trials and Tribulations/Elise Deauxnim ~ A Gentle Melody.mmrs",
     "preview": "Phoenix Wright Ace Attorney - Trials and Tribulations/Elise Deauxnim ~ A Gentle Melody.mp3"
   },
+  {
+    "uuid": "1b212498-edd3-4ff3-846a-3367d731ae33",
+    "creationDate": "2026-09-02T00:49:44.169Z",
+    "game": "Phoenix Wright: Ace Attorney - Trials and Tribulations",
+    "song": "Hazakura Temple",
+    "composers": [
+      "Noriyuki Iwadare"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-18.46",
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": true,
+    "file": "Phoenix Wright Ace Attorney - Trials and Tribulations/Hazakura Temple.mmrs",
+    "preview": "Phoenix Wright Ace Attorney - Trials and Tribulations/Hazakura Temple.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
