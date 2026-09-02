@@ -89549,5 +89549,28 @@
     "file": "Phoenix Wright Ace Attorney - Trials and Tribulations/Mask☆DeMasque ~ Please Listen to Meeeee!.mmrs",
     "preview": "Phoenix Wright Ace Attorney - Trials and Tribulations/Mask☆DeMasque ~ Please Listen to Meeeee!.mp3"
   },
+  {
+    "uuid": "d2751280-652b-4ba0-bbc3-e7c0142ce30f",
+    "creationDate": "2026-09-02T01:01:16.899Z",
+    "game": "Phoenix Wright: Ace Attorney - Trials and Tribulations",
+    "song": "Pursuit ~ Catch the Culprit",
+    "composers": [
+      "Noriyuki Iwadare"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-14.64",
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "file": "Phoenix Wright Ace Attorney - Trials and Tribulations/Pursuit ~ Catch the Culprit.mmrs",
+    "preview": "Phoenix Wright Ace Attorney - Trials and Tribulations/Pursuit ~ Catch the Culprit.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
