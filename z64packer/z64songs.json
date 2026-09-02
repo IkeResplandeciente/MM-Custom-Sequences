@@ -89572,5 +89572,27 @@
     "file": "Phoenix Wright Ace Attorney - Trials and Tribulations/Pursuit ~ Catch the Culprit.mmrs",
     "preview": "Phoenix Wright Ace Attorney - Trials and Tribulations/Pursuit ~ Catch the Culprit.mp3"
   },
+  {
+    "uuid": "c9ca817f-b449-4fab-90e7-b7a65bc71189",
+    "creationDate": "2026-09-02T01:02:51.551Z",
+    "game": "Phoenix Wright: Ace Attorney - Trials and Tribulations",
+    "song": "Victory! ~ An Eternal Win",
+    "composers": [
+      "Noriyuki Iwadare"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-14.60",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "file": "Phoenix Wright Ace Attorney - Trials and Tribulations/Victory! ~ An Eternal Win.mmrs",
+    "preview": "Phoenix Wright Ace Attorney - Trials and Tribulations/Victory! ~ An Eternal Win.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
