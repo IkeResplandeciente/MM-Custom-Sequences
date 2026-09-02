@@ -89314,5 +89314,27 @@
     "preview": "Super Mario World/Athleeeeeeeeetic.mp3",
     "hash": "587742de597dc386263a1af91b47d3fd"
   },
+  {
+    "uuid": "6075d9cd-a61f-4479-be50-013d74893667",
+    "creationDate": "2026-09-02T00:25:35.106Z",
+    "game": "Ace Attorney: Dual Destinies",
+    "song": "Athena Cykes ~ Courtroom Révolutionnaire",
+    "composers": [
+      "Noriyuki Iwadare"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-16.43",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "file": "Ace Attorney Dual Destinies/Athena Cykes ~ Courtroom Révolutionnaire.mmrs",
+    "preview": "Ace Attorney Dual Destinies/Athena Cykes ~ Courtroom Révolutionnaire.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
