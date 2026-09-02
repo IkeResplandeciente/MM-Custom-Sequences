@@ -17893,7 +17893,7 @@
     "uuid": "1c09fd19-bcba-44d1-9fce-c2ea7a7419ef",
     "creationDate": "2026-03-23T02:56:13.122Z",
     "game": "Phoenix Wright: Ace Attorney - Justice for All",
-    "song": "Psyche-Lock",
+    "song": "Psyche-Locks",
     "composers": [
       "Akemi Kimura"
     ],
@@ -17902,17 +17902,16 @@
     ],
     "type": "bgm",
     "categories": [
-      "2",
       "3",
+      "4",
       "6"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "file": "Phoenix Wright Ace Attorney - Justice for All/Psyche-Lock.mmrs",
-    "preview": "https://archive.org/download/japas-jams-previews-2026-08/Phoenix Wright Ace Attorney/Justice for All - Psyche-Lock.mp3",
-    "lufs": "-20.41",
-    "hash": "4efa12bab34f2b619e0f87debb81ed81"
+    "file": "Phoenix Wright Ace Attorney - Justice for All/Psyche-Locks.mmrs",
+    "preview": "https://archive.org/download/ace-attorney-j-4-all-psyche-locks/Ace%20Attorney%20J%204%20All%20-%20Psyche-Locks.mp3",
+    "lufs": "-17.83",
+    "hash": "4efa12bab34f2b619e0f87debb81ed81",
+    "lastUpdateDate": "2026-09-02T00:17:36.108Z"
   },
   {
     "uuid": "2fc671d4-7450-42e4-a33f-e15299d79532",
