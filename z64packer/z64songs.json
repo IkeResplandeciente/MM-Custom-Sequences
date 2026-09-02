@@ -89380,5 +89380,25 @@
     "file": "Ace Attorney Investigations 2 Prosecutor's Gambit/Confrontation - Presto 2011.mmrs",
     "preview": "Ace Attorney Investigations 2 Prosecutor's Gambit/Confrontation - Presto 2011.mp3"
   },
+  {
+    "uuid": "8f1fd2c0-9200-44fb-954d-df07bca08766",
+    "creationDate": "2026-09-02T00:35:39.634Z",
+    "game": "Phoenix Wright: Ace Attorney - Justice for All",
+    "song": "Can't Sleep on a Night Like This",
+    "composers": [
+      "Akemi Kimura"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-16.69",
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "10"
+    ],
+    "file": "Phoenix Wright Ace Attorney - Justice for All/Can't Sleep on a Night Like This.mmrs",
+    "preview": "Phoenix Wright Ace Attorney - Justice for All/Can't Sleep on a Night Like This.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
