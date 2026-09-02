@@ -89358,5 +89358,27 @@
     "file": "Ace Attorney Dual Destinies/Pursuit - Completely Corner the Culprit.mmrs",
     "preview": "Ace Attorney Dual Destinies/Pursuit - Completely Corner the Culprit.mp3"
   },
+  {
+    "uuid": "aabaaf21-e99a-4361-a175-f23c0f517693",
+    "creationDate": "2026-09-02T00:32:22.203Z",
+    "game": "Ace Attorney Investigations 2: Prosecutor's Gambit",
+    "song": "Confrontation - Presto 2011",
+    "composers": [
+      "Noriyuki Iwadare"
+    ],
+    "converters": [
+      "Seba 20 90"
+    ],
+    "lufs": "-13.97",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "3",
+      "5"
+    ],
+    "usesCustomBank": true,
+    "file": "Ace Attorney Investigations 2 Prosecutor's Gambit/Confrontation - Presto 2011.mmrs",
+    "preview": "Ace Attorney Investigations 2 Prosecutor's Gambit/Confrontation - Presto 2011.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
