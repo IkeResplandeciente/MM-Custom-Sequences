@@ -90043,15 +90043,17 @@
       "4"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Donkey Kong Country Returns/Gear Getaway.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Donkey Kong Country Returns/Gear Getaway.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "66b97fd61371abe653ecbc95e3a52612",
-    "lufs": "-17.04"
+    "lufs": "-17.04",
+    "lastUpdateDate": "2026-09-12T18:25:02.611Z",
+    "composers": [
+      "Noriyuki Iwadare"
+    ]
   },
   {
     "uuid": "27ca1031-49be-45b9-b34a-69bd83958bd0",
