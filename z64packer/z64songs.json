@@ -90995,15 +90995,19 @@
       "6"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Fire Emblem The Sacred Stones/Reunion.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Fire Emblem The Sacred Stones/Reunion.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "76abea500456b110d19f0907197c8033",
-    "lufs": "-16.52"
+    "lufs": "-16.52",
+    "lastUpdateDate": "2026-09-12T20:17:24.342Z",
+    "composers": [
+      "Saki Kasuga",
+      "Yoshihiko Kitamura",
+      "Yoshito Sekigawa"
+    ]
   },
   {
     "uuid": "e23452cb-779d-441e-8555-c5a9ed774fa0",
