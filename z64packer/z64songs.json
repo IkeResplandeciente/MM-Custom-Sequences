@@ -92011,15 +92011,17 @@
       "6"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Guilty Gear XX/Primal Light.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Guilty Gear XX/Primal Light.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "6139685677c3fef25e66f4c895645306",
-    "lufs": "-14.35"
+    "lufs": "-14.35",
+    "lastUpdateDate": "2026-09-12T23:52:30.678Z",
+    "composers": [
+      "Daisuke Ishiwatari"
+    ]
   },
   {
     "uuid": "fd14f85a-ca9f-4455-a002-c5c762ef1657",
