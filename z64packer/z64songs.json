@@ -91755,16 +91755,17 @@
     "categories": [
       "0"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Golden Sun The Lost Age/Journey to Save the World.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Golden Sun The Lost Age/Journey to Save the World.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "42af4a634e658e069b65ed2092b6959c",
-    "lufs": "-14.10"
+    "lufs": "-14.10",
+    "lastUpdateDate": "2026-09-12T23:46:43.111Z",
+    "composers": [
+      "Motoi Sakuraba"
+    ]
   },
   {
     "uuid": "66380d28-6715-4620-a4e8-5beb1535e959",
