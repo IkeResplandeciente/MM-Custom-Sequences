@@ -90901,16 +90901,17 @@
       "0",
       "5"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Fire Emblem The Blazing Blade/The Messenger.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Fire Emblem The Blazing Blade/The Messenger.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "c9e78b768a6cc502f5520feed2623b02",
-    "lufs": "-17.85"
+    "lufs": "-17.85",
+    "lastUpdateDate": "2026-09-12T22:36:20.548Z",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ]
   },
   {
     "uuid": "92d0244a-3194-424b-bf8e-bc4819999c2c",
