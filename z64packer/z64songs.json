@@ -19746,7 +19746,7 @@
     "uuid": "a7a3fc90-6652-48a8-8e48-8aeacad0d8a5",
     "creationDate": "2026-03-23T23:11:03.088Z",
     "game": "Fire Emblem: Thracia 776",
-    "song": "Near Defeat",
+    "song": "Forces of Leif, Seek Victory ~ Close to Defeat",
     "composers": [
       "Yuka Tsujiyoko"
     ],
@@ -19756,16 +19756,13 @@
     "type": "bgm",
     "categories": [
       "0",
-      "1",
-      "2"
+      "1"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "file": "Fire Emblem Thracia 776/Near Defeat.mmrs",
-    "preview": "https://archive.org/download/japas-jams-previews-2026-08/Fire Emblem Thracia 776/Near Defeat.mp3",
-    "lufs": "-15.70",
-    "hash": "0308927a59df143fc5a474c8da0b93f1"
+    "file": "Fire Emblem Thracia 776/Forces of Leif, Seek Victory ~ Close to Defeat.mmrs",
+    "preview": "Fire Emblem Thracia 776/Forces of Leif, Seek Victory ~ Close to Defeat.mp3",
+    "lufs": "-18.71",
+    "hash": "0308927a59df143fc5a474c8da0b93f1",
+    "lastUpdateDate": "2026-09-12T20:28:09.080Z"
   },
   {
     "uuid": "c2e6818b-dc14-4832-8767-3605ce04355e",
