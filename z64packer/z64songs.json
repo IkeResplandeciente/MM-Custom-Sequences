@@ -90777,15 +90777,17 @@
       "6"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Fire Emblem The Blazing Blade/Loyalty.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Fire Emblem The Blazing Blade/Loyalty.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "b9b49f0e5d8c3716a5d009410aab4666",
-    "lufs": "-15.55"
+    "lufs": "-15.55",
+    "lastUpdateDate": "2026-09-12T22:23:40.421Z",
+    "composers": [
+      "Saki Kasuga"
+    ]
   },
   {
     "uuid": "0e1bda4f-81d1-4d79-bdb9-d48f7ec1a7e9",
