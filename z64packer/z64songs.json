@@ -93030,16 +93030,17 @@
       "1",
       "6"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Nine Hours, Nine Persons, Nine Doors/Morphogenetic Sorrow.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Nine Hours, Nine Persons, Nine Doors/Morphogenetic Sorrow.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "262377a8f27f47b7976cad423ae0a6f9",
-    "lufs": "-24.91"
+    "lufs": "-24.91",
+    "lastUpdateDate": "2026-09-12T17:31:31.958Z",
+    "composers": [
+      "Shinji Hosoe"
+    ]
   },
   {
     "uuid": "97167e90-99dc-4282-9c21-1718438cf862",
