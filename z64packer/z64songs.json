@@ -90817,15 +90817,17 @@
       "5"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Fire Emblem The Blazing Blade/Raid!.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Fire Emblem The Blazing Blade/Raid!.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "8c83771076d57dee0b8366651cbd2d42",
-    "lufs": "-16.80"
+    "lufs": "-16.80",
+    "lastUpdateDate": "2026-09-12T22:29:55.316Z",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ]
   },
   {
     "uuid": "a8ad43f5-e071-4767-ab82-56ed63342802",
