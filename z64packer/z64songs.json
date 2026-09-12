@@ -90338,16 +90338,17 @@
       "0",
       "2"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Fire Emblem Awakening/Don't Speak Her Name!.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Fire Emblem Awakening/Don't Speak Her Name!.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "ce2d55a0007bc5d3ec79e173858eb421",
-    "lufs": "-15.41"
+    "lufs": "-15.41",
+    "lastUpdateDate": "2026-09-12T19:27:03.479Z",
+    "composers": [
+      "Rei Kondoh"
+    ]
   },
   {
     "uuid": "cb21834e-153c-43bb-a9a9-a6192e9055b4",
