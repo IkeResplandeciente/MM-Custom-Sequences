@@ -90518,16 +90518,17 @@
       "5",
       "7"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Fire Emblem Path of Radiance/Against the Black Knight.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Fire Emblem Path of Radiance/Against the Black Knight.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "025e648aae9dcf16b75ffa5f66200b9e",
-    "lufs": "-17.42"
+    "lufs": "-17.42",
+    "lastUpdateDate": "2026-09-12T19:42:25.619Z",
+    "composers": [
+      "Atsushi Yoshida"
+    ]
   },
   {
     "uuid": "75dca795-b00f-43a3-b423-3c9d3e12407a",
