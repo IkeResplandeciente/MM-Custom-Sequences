@@ -90183,16 +90183,17 @@
       "4",
       "7"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Final Fantasy/Battle.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Final Fantasy/Battle.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "9913243b74d5bc1aca1e15b1dbe094eb",
-    "lufs": "-17.13"
+    "lufs": "-17.13",
+    "lastUpdateDate": "2026-09-12T19:04:58.733Z",
+    "composers": [
+      "Nobuo Uematsu"
+    ]
   },
   {
     "uuid": "20015b12-8c07-4bfe-a69a-17fc43a0edc2",
