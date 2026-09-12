@@ -92155,15 +92155,17 @@
       "5"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Kid Icarus Uprising/Reset Bomb Forest.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Kid Icarus Uprising/Reset Bomb Forest.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "b0a2ed489d11298a086181cd7c102163",
-    "lufs": "-13.75"
+    "lufs": "-13.75",
+    "lastUpdateDate": "2026-09-12T23:56:54.426Z",
+    "composers": [
+      "Yuzo Koshiro"
+    ]
   },
   {
     "uuid": "f971e620-40d8-4ff5-a836-067f4b3f101e",
