@@ -69247,7 +69247,8 @@
     "game": "Fire Emblem: The Blazing Blade",
     "song": "Rise to the Challenge",
     "composers": [
-      "Yuka Tsujiyoko, Saki Haruyama"
+      "Yuka Tsujiyoko",
+      "Saki Kasuga"
     ],
     "converters": [
       "acrophobic"
@@ -69262,10 +69263,8 @@
       "5",
       "7"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "lufs": "-20.62"
+    "lufs": "-20.62",
+    "lastUpdateDate": "2026-09-12T22:32:15.423Z"
   },
   {
     "game": "Kirby Super Star",
