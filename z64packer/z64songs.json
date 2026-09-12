@@ -91358,16 +91358,17 @@
     "categories": [
       "8"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Golden Sun/Item Get.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Golden Sun/Item Get.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "4df0091bde6c03fa3fde72a165824e05",
-    "lufs": "-16.54"
+    "lufs": "-16.54",
+    "lastUpdateDate": "2026-09-12T22:57:48.817Z",
+    "composers": [
+      "Motoi Sakuraba"
+    ]
   },
   {
     "uuid": "e6d17081-92c0-4141-9e23-56a3ea562c8b",
