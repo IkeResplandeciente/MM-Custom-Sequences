@@ -19615,13 +19615,11 @@
     "categories": [
       "7"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Fire Emblem The Sacred Stones/The Battle Must Be Won.mmrs",
-    "preview": "https://archive.org/download/japas-jams-previews-2026-08/Fire Emblem The Sacred Stones/The Battle Must Be Won.mp3",
-    "lufs": "-21.11",
-    "hash": "4ef9e3ac4e44a24d47ef0caa4235dbc4"
+    "preview": "Fire Emblem The Sacred Stones/The Battle Must Be Won.mp3",
+    "lufs": "-17.22",
+    "hash": "4ef9e3ac4e44a24d47ef0caa4235dbc4",
+    "lastUpdateDate": "2026-09-12T20:22:42.668Z"
   },
   {
     "uuid": "34fbc7f1-aa7c-4c74-96b0-1992706c44a0",
