@@ -19594,13 +19594,11 @@
       "0",
       "2"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Fire Emblem The Sacred Stones/Rise Above.mmrs",
-    "preview": "https://archive.org/download/japas-jams-previews-2026-08/Fire Emblem The Sacred Stones/Rise Above.mp3",
-    "lufs": "-13.89",
-    "hash": "d501f0c2c04b0029246f0c0aac320229"
+    "preview": "Fire Emblem The Sacred Stones/Rise Above.mp3",
+    "lufs": "-12.61",
+    "hash": "d501f0c2c04b0029246f0c0aac320229",
+    "lastUpdateDate": "2026-09-12T20:19:38.686Z"
   },
   {
     "uuid": "24af6908-a183-4adf-a253-06f8dc41451e",
