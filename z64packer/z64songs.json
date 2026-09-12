@@ -90950,16 +90950,17 @@
       "0",
       "6"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Fire Emblem The Sacred Stones/Comrades.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Fire Emblem The Sacred Stones/Comrades.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "5ba1f59e7fb1927f65153683495089e2",
-    "lufs": "-16.19"
+    "lufs": "-16.19",
+    "lastUpdateDate": "2026-09-12T20:08:06.451Z",
+    "composers": [
+      "Yoshihiko Kitamura"
+    ]
   },
   {
     "uuid": "c763bed7-2554-46ab-a417-bc7a4f56395f",
