@@ -89906,15 +89906,17 @@
       "2"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Chrono Trigger/Secret of the Forest [2].mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Chrono Trigger/Secret of the Forest [2].mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "c73eb9003cb53d9dfad715bd5274d2b2",
-    "lufs": "-16.44"
+    "lufs": "-16.44",
+    "lastUpdateDate": "2026-09-12T18:14:40.108Z",
+    "composers": [
+      "Yasunori Mitsuda"
+    ]
   },
   {
     "uuid": "2215e231-4bbb-44e5-8f4b-b93ff4887e3d",
