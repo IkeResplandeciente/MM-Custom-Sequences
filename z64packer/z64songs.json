@@ -89883,15 +89883,17 @@
       "2"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Chrono Trigger/Ocean Palace [2].mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Chrono Trigger/Ocean Palace [2].mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "83df9fd01a26383cc5477946e5d8eb5f",
-    "lufs": "-16.91"
+    "lufs": "-16.91",
+    "lastUpdateDate": "2026-09-12T18:13:41.245Z",
+    "composers": [
+      "Yasunori Mitsuda"
+    ]
   },
   {
     "uuid": "ea3e24b9-0c75-4159-9854-e68a078d0c80",
