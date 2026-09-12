@@ -89998,16 +89998,17 @@
       "4",
       "6"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Doki Doki Literature Club!/Play With Me.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Doki Doki Literature Club!/Play With Me.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "e0987663fa7dff0febe1892a83fc1b56",
-    "lufs": "-17.82"
+    "lufs": "-17.82",
+    "lastUpdateDate": "2026-09-12T18:22:29.206Z",
+    "composers": [
+      "Dan Salvato"
+    ]
   },
   {
     "uuid": "f65dee7d-5685-4419-9926-dfc45baaaa08",
