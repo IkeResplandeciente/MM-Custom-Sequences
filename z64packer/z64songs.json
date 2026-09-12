@@ -69198,7 +69198,7 @@
     "game": "Fire Emblem: The Blazing Blade",
     "song": "Strike!",
     "composers": [
-      "Yuka Tsujiyoko, Saki Haruyama"
+      "Yuka Tsujiyoko"
     ],
     "converters": [
       "acrophobic"
@@ -69213,10 +69213,8 @@
       "5",
       "7"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "lufs": "-19.19"
+    "lufs": "-19.19",
+    "lastUpdateDate": "2026-09-12T22:34:18.779Z"
   },
   {
     "game": "Fire Emblem: The Blazing Blade",
