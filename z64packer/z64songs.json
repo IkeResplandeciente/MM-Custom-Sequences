@@ -19251,12 +19251,11 @@
       "2"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Fire Emblem New Mystery of the Emblem/Footsteps of Fate.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Fire Emblem New Mystery of the Emblem/Footsteps of Fate.mp3",
     "lufs": "-15.53",
-    "hash": "ff208b60d000dfa75c31fa68038fa4ae"
+    "hash": "ff208b60d000dfa75c31fa68038fa4ae",
+    "lastUpdateDate": "2026-09-12T19:40:47.720Z"
   },
   {
     "uuid": "664b91e3-2cc7-4234-ac64-b42be92f97f3",
