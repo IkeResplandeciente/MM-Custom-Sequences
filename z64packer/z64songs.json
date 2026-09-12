@@ -92870,15 +92870,17 @@
       "16"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Mother 3/Fun Naming.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Mother 3/Fun Naming.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "3a1228eae98ed7f7a76a400ca8e80467",
-    "lufs": "-17.82"
+    "lufs": "-17.82",
+    "lastUpdateDate": "2026-09-12T18:47:44.412Z",
+    "composers": [
+      "Shogo Sakai"
+    ]
   },
   {
     "uuid": "cae005e5-7d12-4ee0-8e8f-579f52f271a5",
