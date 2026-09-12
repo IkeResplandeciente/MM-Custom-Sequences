@@ -69220,7 +69220,8 @@
     "game": "Fire Emblem: The Blazing Blade",
     "song": "The Kingdom of Bern",
     "composers": [
-      "Yuka Tsujiyoko, Saki Haruyama"
+      "Yuka Tsujiyoko",
+      "Saki Kasuga"
     ],
     "converters": [
       "acrophobic"
@@ -69236,10 +69237,8 @@
       "1",
       "2"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "lufs": "-19.17"
+    "lufs": "-19.17",
+    "lastUpdateDate": "2026-09-12T22:37:12.618Z"
   },
   {
     "game": "Fire Emblem: The Blazing Blade",
