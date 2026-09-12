@@ -91398,16 +91398,17 @@
     "categories": [
       "2"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Golden Sun/Mercury Lighthouse [2].mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Golden Sun/Mercury Lighthouse [2].mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "8ee39bdc960ce3a12b3aec51c268cbfe",
-    "lufs": "-16.54"
+    "lufs": "-16.54",
+    "lastUpdateDate": "2026-09-12T22:49:42.949Z",
+    "composers": [
+      "Motoi Sakuraba"
+    ]
   },
   {
     "uuid": "815bd0f4-efd1-40dd-8028-f6a95710f0ae",
