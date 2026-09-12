@@ -89791,15 +89791,17 @@
       "2"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Castlevania II Belmont's Revenge/Praying Hands.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Castlevania II Belmont's Revenge/Praying Hands.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "a88f3d9ddc84952092c4a226e528d73e",
-    "lufs": "-15.92"
+    "lufs": "-15.92",
+    "lastUpdateDate": "2026-09-12T17:50:40.656Z",
+    "composers": [
+      "Hidehiro Funauchi"
+    ]
   },
   {
     "uuid": "9bce55a3-5363-428a-ad16-20838b1c3a88",
