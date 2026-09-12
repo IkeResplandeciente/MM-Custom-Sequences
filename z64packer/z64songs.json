@@ -19719,13 +19719,11 @@
       "0",
       "1"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Fire Emblem Genealogy of the Holy War/Inheritor of the Light.mmrs",
-    "preview": "https://archive.org/download/japas-jams-previews-2026-08/Fire Emblem Genealogy of the Holy War/Inheritor of the Light.mp3",
-    "lufs": "-20.54",
-    "hash": "ea8a2587c61b11e8267b6cc7508e06d0"
+    "preview": "Fire Emblem Genealogy of the Holy War/Inheritor of the Light.mp3",
+    "lufs": "-18.11",
+    "hash": "ea8a2587c61b11e8267b6cc7508e06d0",
+    "lastUpdateDate": "2026-09-12T19:35:45.644Z"
   },
   {
     "uuid": "4dd8f6ad-8050-427d-90b9-de031d5b23e1",
