@@ -90159,15 +90159,19 @@
       "6"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Fatal Fury 2/Tarkun and Kitapy.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Fatal Fury 2/Tarkun and Kitapy.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "1463b5fc0211ae92b6875051dd935827",
-    "lufs": "-12.44"
+    "lufs": "-12.44",
+    "lastUpdateDate": "2026-09-12T19:03:03.902Z",
+    "composers": [
+      "Masahiko Hataya",
+      "Toshio Shimizu",
+      "Yoshihiko Kitamura"
+    ]
   },
   {
     "uuid": "46c9273b-bb0a-44d7-9709-900aa1fd2bf9",
