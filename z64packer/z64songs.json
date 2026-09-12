@@ -18465,12 +18465,11 @@
       "2"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Castlevania Lament of Innocence/Lament of Innocence ~Leon's Theme~.mmrs",
-    "preview": "https://archive.org/download/japas-jams-previews-2026-08/Castlevania Lament of Innocence/Lament of Innocence ~Leon's Theme~.mp3",
-    "lufs": "-14.76",
-    "hash": "cfdd28d69c35915cc843f010e23f6227"
+    "preview": "Castlevania Lament of Innocence/Lament of Innocence ~Leon's Theme~.mp3",
+    "lufs": "-13.86",
+    "hash": "cfdd28d69c35915cc843f010e23f6227",
+    "lastUpdateDate": "2026-09-12T18:04:59.391Z"
   },
   {
     "uuid": "bdf16b8d-60c3-460c-9d04-2ff1daec495d",
