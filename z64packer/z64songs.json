@@ -91964,15 +91964,17 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Guilty Gear XX/Fatal Duel.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Guilty Gear XX/Fatal Duel.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "8efcc6f8e4ff20b432a7aa14b891766b",
-    "lufs": "-13.35"
+    "lufs": "-13.35",
+    "lastUpdateDate": "2026-09-12T23:51:41.016Z",
+    "composers": [
+      "Daisuke Ishiwatari"
+    ]
   },
   {
     "uuid": "2c10ae2d-cb2a-41ed-b799-d0787f91dda9",
