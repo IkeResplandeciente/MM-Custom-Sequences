@@ -91248,16 +91248,17 @@
       "3",
       "6"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "God Hand/Gene's Rock a Bye.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/God Hand/Gene's Rock a Bye.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "21de96909f3fa589630b9b277d2c825b",
-    "lufs": "-17.19"
+    "lufs": "-17.19",
+    "lastUpdateDate": "2026-09-12T22:40:17.990Z",
+    "composers": [
+      "Masafumi Takada"
+    ]
   },
   {
     "uuid": "1f41c402-f63e-462a-ae28-09c00279a650",
