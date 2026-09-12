@@ -90454,16 +90454,17 @@
       "3",
       "5"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Fire Emblem Genealogy of the Holy War/Flow of Time.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Fire Emblem Genealogy of the Holy War/Flow of Time.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "d4cf3f2dcd2a2bfaf38a91f6987abe34",
-    "lufs": "-17.32"
+    "lufs": "-17.32",
+    "lastUpdateDate": "2026-09-12T19:30:48.238Z",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ]
   },
   {
     "uuid": "8ad2b572-c2e9-4da9-ad99-1c480c050984",
