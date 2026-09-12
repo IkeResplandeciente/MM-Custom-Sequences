@@ -91009,22 +91009,24 @@
     "uuid": "e23452cb-779d-441e-8555-c5a9ed774fa0",
     "creationDate": "2026-09-11T03:35:14.749Z",
     "game": "Fire Emblem: The Sacred Stones",
-    "song": "Truth, Fear and Hope",
+    "song": "Truth, Despair and Hope",
     "type": "bgm",
     "categories": [
       "0",
       "5"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "file": "Fire Emblem The Sacred Stones/Truth, Fear and Hope.mmrs",
+    "file": "Fire Emblem The Sacred Stones/Truth, Despair and Hope.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Fire Emblem The Sacred Stones/Truth, Fear and Hope.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "d39a5a340203d36c21ad0e2443bf7fe7",
-    "lufs": "-16.26"
+    "lufs": "-16.26",
+    "lastUpdateDate": "2026-09-12T20:24:23.449Z",
+    "composers": [
+      "Yoshihiko Kitamura"
+    ]
   },
   {
     "uuid": "faf755e8-43ad-4a40-8bef-ef7d01897ef7",
