@@ -91219,15 +91219,19 @@
       "2"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Fire Emblem Three Houses/The Long Road.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Fire Emblem Three Houses/The Long Road.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "c87b2afa186c941efd5e22280303f2f6",
-    "lufs": "-17.36"
+    "lufs": "-17.36",
+    "lastUpdateDate": "2026-09-12T20:34:59.336Z",
+    "composers": [
+      "Takeru Kanazaki",
+      "Rei Kondoh",
+      "Hiroki Morishita"
+    ]
   },
   {
     "uuid": "7837ae85-5595-4b1f-bcc2-9771301cabbb",
