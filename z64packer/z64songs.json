@@ -19534,7 +19534,7 @@
     "game": "Fire Emblem: The Blazing Blade",
     "song": "Reminiscence (Ninian's Theme)",
     "composers": [
-      "Saki Haruyama"
+      "Saki Kasuga"
     ],
     "converters": [
       "Seba 20 90"
@@ -19545,13 +19545,11 @@
       "3",
       "6"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Fire Emblem The Blazing Blade/Reminiscence (Ninian's Theme).mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Fire Emblem The Blazing Blade/Reminiscence (Ninian's Theme).mp3",
     "lufs": "-23.56",
-    "hash": "758e043a6b1500e409d117c17cad6c28"
+    "hash": "758e043a6b1500e409d117c17cad6c28",
+    "lastUpdateDate": "2026-09-12T22:30:38.197Z"
   },
   {
     "uuid": "a6c3e4c9-bbea-4fb4-8e9d-aef6ab97d3c6",
