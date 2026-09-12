@@ -68446,7 +68446,8 @@
     "game": "Fire Emblem: The Blazing Blade",
     "song": "Fortune Telling",
     "composers": [
-      "Yuka Tsujiyoko, Saki Haruyama"
+      "Yuka Tsujiyoko",
+      "Saki Kasuga"
     ],
     "converters": [
       "acrophobic"
@@ -68460,10 +68461,8 @@
     "categories": [
       "3"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "lufs": "-23.14"
+    "lufs": "-23.14",
+    "lastUpdateDate": "2026-09-12T22:26:18.926Z"
   },
   {
     "game": "Ruby Destiny Life of Guardians",
