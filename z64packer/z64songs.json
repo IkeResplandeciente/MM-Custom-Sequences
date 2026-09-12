@@ -91420,16 +91420,17 @@
       "2",
       "5"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Golden Sun/Mount Aleph Erupts.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Golden Sun/Mount Aleph Erupts.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "18fad1a60a17b81d199b9af44563391d",
-    "lufs": "-15.89"
+    "lufs": "-15.89",
+    "lastUpdateDate": "2026-09-12T22:50:37.373Z",
+    "composers": [
+      "Motoi Sakuraba"
+    ]
   },
   {
     "uuid": "39ce03cc-ad06-4efb-8d1d-fb416a24f3b4",
