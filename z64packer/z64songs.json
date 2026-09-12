@@ -91194,16 +91194,19 @@
       "0",
       "1"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Fire Emblem Three Houses/Tempest of Seasons.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Fire Emblem Three Houses/Tempest of Seasons.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "5b0dff6d0e144fdc70188f2763789ef6",
-    "lufs": "-13.60"
+    "lufs": "-13.60",
+    "lastUpdateDate": "2026-09-12T20:34:12.453Z",
+    "composers": [
+      "Takeru Kanazaki",
+      "Rei Kondoh",
+      "Hiroki Morishita"
+    ]
   },
   {
     "uuid": "06076959-4c87-4f8d-9b74-7c29355fa054",
