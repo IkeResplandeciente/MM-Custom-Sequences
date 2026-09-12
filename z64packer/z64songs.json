@@ -90798,15 +90798,17 @@
       "6"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Fire Emblem The Blazing Blade/One Heart.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Fire Emblem The Blazing Blade/One Heart.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "296e7d12377a8da228732939dc0e1f31",
-    "lufs": "-15.43"
+    "lufs": "-15.43",
+    "lastUpdateDate": "2026-09-12T22:22:55.711Z",
+    "composers": [
+      "Saki Kasuga"
+    ]
   },
   {
     "uuid": "5fbdd85b-945b-466d-8165-a8f607f1eae5",
