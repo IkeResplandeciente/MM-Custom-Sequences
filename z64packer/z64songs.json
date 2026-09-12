@@ -19487,7 +19487,7 @@
     "song": "Everything into the Dark",
     "composers": [
       "Yuka Tsujiyoko",
-      "Saki Haruyama"
+      "Saki Kasuga"
     ],
     "converters": [
       "Seba 20 90"
@@ -19498,12 +19498,11 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Fire Emblem The Blazing Blade/Everything into the Dark.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Fire Emblem The Blazing Blade/Everything into the Dark.mp3",
     "lufs": "-15.95",
-    "hash": "427b058d0fea1f8352d348e0e5eecefc"
+    "hash": "427b058d0fea1f8352d348e0e5eecefc",
+    "lastUpdateDate": "2026-09-12T22:25:26.788Z"
   },
   {
     "uuid": "6ffc3bfc-779b-4334-b452-4a6d5a239f6c",
