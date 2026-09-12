@@ -91846,15 +91846,17 @@
       "6"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Guilty Gear Dust Strikers/Lady Fascination.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Guilty Gear Dust Strikers/Lady Fascination.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "d848c76123fce7f241f1c5bae2702c81",
-    "lufs": "-14.72"
+    "lufs": "-14.72",
+    "lastUpdateDate": "2026-09-12T23:49:01.866Z",
+    "composers": [
+      "Daisuke Ishiwatari"
+    ]
   },
   {
     "uuid": "1a83693c-5120-47e0-b621-0dbd7e08854f",
