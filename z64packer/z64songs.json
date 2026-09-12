@@ -68509,7 +68509,8 @@
     "game": "Fire Emblem: The Blazing Blade",
     "song": "Inescapable Fate [2]",
     "composers": [
-      "Yuka Tsujiyoko, Saki Haruyama"
+      "Yuka Tsujiyoko",
+      "Saki Kasuga"
     ],
     "converters": [
       "acrophobic"
@@ -68527,10 +68528,8 @@
       "5",
       "7"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "lufs": "-17.85"
+    "lufs": "-17.85",
+    "lastUpdateDate": "2026-09-12T22:28:19.515Z"
   },
   {
     "game": "Hades",
