@@ -91461,16 +91461,17 @@
     "categories": [
       "0"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Golden Sun/Set Sail on the Karagol Sea.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Golden Sun/Set Sail on the Karagol Sea.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "5e2188c5e4f769737e1dfb32a701ff0b",
-    "lufs": "-15.74"
+    "lufs": "-15.74",
+    "lastUpdateDate": "2026-09-12T22:51:25.485Z",
+    "composers": [
+      "Motoi Sakuraba"
+    ]
   },
   {
     "uuid": "a3235d21-9cb1-422e-8967-ac2cce11c7ff",
