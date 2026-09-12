@@ -69174,7 +69174,8 @@
     "game": "Fire Emblem: The Blazing Blade",
     "song": "Precious Things",
     "composers": [
-      "Yuka Tsujiyoko, Saki Haruyama"
+      "Yuka Tsujiyoko",
+      "Saki Kasuga"
     ],
     "converters": [
       "acrophobic"
@@ -69192,10 +69193,8 @@
       "3",
       "4"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "lufs": "-20.31"
+    "lufs": "-20.31",
+    "lastUpdateDate": "2026-09-12T22:28:58.748Z"
   },
   {
     "game": "Fire Emblem: The Blazing Blade",
