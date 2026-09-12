@@ -89727,16 +89727,17 @@
       "3",
       "5"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Banjo-Tooie/Here Comes Trouble [2].mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Banjo-Tooie/Here Comes Trouble [2].mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "e1129ed3824ab27e7f4ec3276b4f7c32",
-    "lufs": "-21.38"
+    "lufs": "-21.38",
+    "lastUpdateDate": "2026-09-12T17:41:19.394Z",
+    "composers": [
+      "Grant Kirkhope"
+    ]
   },
   {
     "uuid": "8dca2319-34a2-4c56-86a2-a339d68e592e",
