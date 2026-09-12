@@ -92916,16 +92916,17 @@
       "1",
       "5"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Mother 3/Hard Rain.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Mother 3/Hard Rain.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "7408c886d3ab33834ae0775b7ebdd5f8",
-    "lufs": "-15.80"
+    "lufs": "-15.80",
+    "lastUpdateDate": "2026-09-12T18:49:45.278Z",
+    "composers": [
+      "Shogo Sakai"
+    ]
   },
   {
     "uuid": "8bae6928-d5ea-431b-be8b-b85766cd5fe0",
