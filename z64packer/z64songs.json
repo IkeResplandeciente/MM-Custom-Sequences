@@ -86344,7 +86344,7 @@
       "frostingorb"
     ],
     "composers": [
-      "Saki Haruyama",
+      "Saki Kasuga",
       "Yuka Tsujiyoko"
     ],
     "uuid": "9cb381ea-11bc-41ad-9397-c11c50c24f8d",
@@ -86357,10 +86357,8 @@
       "5",
       "7"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "lufs": "-33.68"
+    "lufs": "-33.68",
+    "lastUpdateDate": "2026-09-12T22:33:38.537Z"
   },
   {
     "game": "Sonic Unleashed",
