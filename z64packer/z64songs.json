@@ -92962,16 +92962,17 @@
       "6",
       "16"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Mother 3/Memory of Life.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Mother 3/Memory of Life.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "e46e1e2714e6dd3e66fca938a78cc6d0",
-    "lufs": "-25.42"
+    "lufs": "-25.42",
+    "lastUpdateDate": "2026-09-12T18:51:04.047Z",
+    "composers": [
+      "Shogo Sakai"
+    ]
   },
   {
     "uuid": "1f40c8c6-624c-4356-8de0-2c8a40205e98",
