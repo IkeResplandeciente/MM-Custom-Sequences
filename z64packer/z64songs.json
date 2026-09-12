@@ -90294,16 +90294,17 @@
       "5",
       "7"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Final Fantasy XIII/Desperate Struggle.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Final Fantasy XIII/Desperate Struggle.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "ec400f62fc9472aabee547b8dd655b42",
-    "lufs": "-13.22"
+    "lufs": "-13.22",
+    "lastUpdateDate": "2026-09-12T19:09:41.568Z",
+    "composers": [
+      "Masashi Hamauzu"
+    ]
   },
   {
     "uuid": "fdd7665d-4ecd-40de-beef-965ac51a110c",
