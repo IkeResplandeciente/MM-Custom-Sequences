@@ -89931,15 +89931,17 @@
       "2"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Crusader of Centy/Rafflesia Training Grounds [3].mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Crusader of Centy/Rafflesia Training Grounds [3].mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "bdbe8ff4960375dcef67533fd3ea4cba",
-    "lufs": "-14.67"
+    "lufs": "-14.67",
+    "lastUpdateDate": "2026-09-12T18:17:30.695Z",
+    "composers": [
+      "Motokazu Shinoda"
+    ]
   },
   {
     "uuid": "ee63daec-46f3-4f24-a95c-f854c349e992",
