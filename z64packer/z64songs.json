@@ -89975,16 +89975,17 @@
       "3",
       "6"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Doki Doki Literature Club!/Okay, Everyone! (Monika) [2].mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Doki Doki Literature Club!/Okay, Everyone! (Monika) [2].mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "0deec2e389f8187cf162eb2350f92c99",
-    "lufs": "-21.84"
+    "lufs": "-21.84",
+    "lastUpdateDate": "2026-09-12T18:21:53.534Z",
+    "composers": [
+      "Dan Salvato"
+    ]
   },
   {
     "uuid": "578ea736-bf4f-479d-9a33-acfa33cb242f",
