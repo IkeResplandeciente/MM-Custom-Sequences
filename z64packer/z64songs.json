@@ -90880,15 +90880,17 @@
       "6"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Fire Emblem The Blazing Blade/The Archsage Athos.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Fire Emblem The Blazing Blade/The Archsage Athos.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "7120363dfdf0288ebedcb6238deb7f84",
-    "lufs": "-19.66"
+    "lufs": "-19.66",
+    "lastUpdateDate": "2026-09-12T22:37:59.157Z",
+    "composers": [
+      "Saki Kasuga"
+    ]
   },
   {
     "uuid": "f5318340-05c3-459c-9094-f6743dc5ce7f",
