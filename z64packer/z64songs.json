@@ -92939,16 +92939,17 @@
       "6",
       "16"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Mother 3/Love Theme.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Mother 3/Love Theme.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "4ea8a07b428e3da9d5a811769f9fe213",
-    "lufs": "-14.82"
+    "lufs": "-14.82",
+    "lastUpdateDate": "2026-09-12T18:50:23.297Z",
+    "composers": [
+      "Shogo Sakai"
+    ]
   },
   {
     "uuid": "85e70205-1efe-4423-8954-9ffe15ae90d7",
