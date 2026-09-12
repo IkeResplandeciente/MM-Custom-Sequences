@@ -90693,16 +90693,17 @@
     "categories": [
       "10"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Fire Emblem The Blazing Blade/Arena Victory.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Fire Emblem The Blazing Blade/Arena Victory.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "1054b19f70263d0de14babdae863cda0",
-    "lufs": "-20.87"
+    "lufs": "-20.87",
+    "lastUpdateDate": "2026-09-12T20:06:07.439Z",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ]
   },
   {
     "uuid": "e4090edc-6940-47f0-a4a5-ac644a17d8e5",
