@@ -91290,15 +91290,17 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Golden Sun/Battle with the Fusion Dragon.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Golden Sun/Battle with the Fusion Dragon.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "b38acb6651fde76fcf7cdd251169899c",
-    "lufs": "-14.18"
+    "lufs": "-14.18",
+    "lastUpdateDate": "2026-09-12T22:47:53.727Z",
+    "composers": [
+      "Motoi Sakuraba"
+    ]
   },
   {
     "uuid": "1c36d6b8-9ddb-4a15-b07a-9c0659420507",
