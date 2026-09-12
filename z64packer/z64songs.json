@@ -89838,16 +89838,17 @@
       "8",
       "10"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Chrono Trigger/Fanfare 1.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Chrono Trigger/Fanfare 1.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "5a75866b28901c468c5d6b890d99bd10",
-    "lufs": "-16.48"
+    "lufs": "-16.48",
+    "lastUpdateDate": "2026-09-12T18:15:26.095Z",
+    "composers": [
+      "Yasunori Mitsuda"
+    ]
   },
   {
     "uuid": "8dce2955-fd52-4729-86d4-d4fdad256153",
