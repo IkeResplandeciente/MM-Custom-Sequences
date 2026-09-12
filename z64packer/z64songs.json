@@ -90495,15 +90495,18 @@
       "2"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Fire Emblem Heroes/Aether Raids.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Fire Emblem Heroes/Aether Raids.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "09c3af388e42dba9d24809ed2beb075e",
-    "lufs": "-13.90"
+    "lufs": "-13.90",
+    "lastUpdateDate": "2026-09-12T19:25:59.693Z",
+    "composers": [
+      "Hiroki Morishita",
+      "Masato Kōda"
+    ]
   },
   {
     "uuid": "613af840-c413-4e04-95a7-f7edfed11512",
