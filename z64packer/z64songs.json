@@ -90628,16 +90628,17 @@
     "categories": [
       "2"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Fire Emblem The Binding Blade/Path of the Divine Generals.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Fire Emblem The Binding Blade/Path of the Divine Generals.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "f8a4704129274c1ef5e4bd356471bc43",
-    "lufs": "-16.11"
+    "lufs": "-16.11",
+    "lastUpdateDate": "2026-09-12T19:55:37.849Z",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ]
   },
   {
     "uuid": "59b05c07-8353-4d20-950a-d7b4794a823a",
