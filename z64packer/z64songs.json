@@ -91507,16 +91507,17 @@
     "categories": [
       "8"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Golden Sun/Super Lucky!.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Golden Sun/Super Lucky!.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "82397db165f5a519de3ec47e3cc80827",
-    "lufs": "-15.53"
+    "lufs": "-15.53",
+    "lastUpdateDate": "2026-09-12T23:00:10.888Z",
+    "composers": [
+      "Motoi Sakuraba"
+    ]
   },
   {
     "uuid": "8f501ba0-53e5-4801-9404-98e389dab0dc",
