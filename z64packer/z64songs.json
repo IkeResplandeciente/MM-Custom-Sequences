@@ -19865,12 +19865,11 @@
       "16"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Fire Emblem Echoes Shadows of Valentia/The Heritors of Arcadia.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Fire Emblem Echoes Shadows of Valentia/The Heritors of Arcadia.mp3",
     "lufs": "-16.48",
-    "hash": "00fac07b5bd97a269dae5fc0568757d3"
+    "hash": "00fac07b5bd97a269dae5fc0568757d3",
+    "lastUpdateDate": "2026-09-12T19:17:13.258Z"
   },
   {
     "uuid": "01595673-bf3a-44b3-9436-6359166970e6",
