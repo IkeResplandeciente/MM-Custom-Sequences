@@ -90541,15 +90541,17 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Fire Emblem Path of Radiance/Clash.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Fire Emblem Path of Radiance/Clash.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "91747f54e5d9984da5c410dff45c6630",
-    "lufs": "-12.93"
+    "lufs": "-12.93",
+    "lastUpdateDate": "2026-09-12T19:44:19.887Z",
+    "composers": [
+      "Atsushi Yoshida"
+    ]
   },
   {
     "uuid": "8bc41c2d-809c-4e77-8e00-73648a98d9d2",
