@@ -18345,13 +18345,11 @@
       "2",
       "5"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Bloodstained Ritual of the Night/Voyage of Promise.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Bloodstained Ritual of the Night/Voyage of Promise.mp3",
     "lufs": "-15.14",
-    "hash": "ae56db23fe29ef36d2029541abcac472"
+    "hash": "ae56db23fe29ef36d2029541abcac472",
+    "lastUpdateDate": "2026-09-12T17:47:16.426Z"
   },
   {
     "uuid": "558ab29d-d8ee-4f4c-8bb5-c42b4ac33e02",
