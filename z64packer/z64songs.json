@@ -91777,15 +91777,17 @@
       "2"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Golden Sun The Lost Age/Jupiter Lighthouse.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Golden Sun The Lost Age/Jupiter Lighthouse.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "37a12e047b4549151028db47c1d94e22",
-    "lufs": "-18.72"
+    "lufs": "-18.72",
+    "lastUpdateDate": "2026-09-12T23:47:17.168Z",
+    "composers": [
+      "Motoi Sakuraba"
+    ]
   },
   {
     "uuid": "c9264906-4e05-4364-a035-b99d6e8b7aec",
