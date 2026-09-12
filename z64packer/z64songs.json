@@ -91337,15 +91337,17 @@
       "3"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Golden Sun/Cave.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Golden Sun/Cave.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "b8caaf62604e715644019c1070877609",
-    "lufs": "-16.69"
+    "lufs": "-16.69",
+    "lastUpdateDate": "2026-09-12T22:48:49.077Z",
+    "composers": [
+      "Motoi Sakuraba"
+    ]
   },
   {
     "uuid": "2e5abec1-3db8-4c42-b425-2163fe3dfbfc",
