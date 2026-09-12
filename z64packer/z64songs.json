@@ -91126,15 +91126,17 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Fire Emblem Three Houses/Paths That Will Never Cross.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Fire Emblem Three Houses/Paths That Will Never Cross.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "00ef52fc978b96980b7dab5748d4a93a",
-    "lufs": "-14.60"
+    "lufs": "-14.60",
+    "lastUpdateDate": "2026-09-12T20:31:16.931Z",
+    "composers": [
+      "Hiroki Morishita"
+    ]
   },
   {
     "uuid": "a44623f9-68b5-4107-b083-0a08a31cc288",
