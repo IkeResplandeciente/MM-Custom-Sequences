@@ -91917,15 +91917,17 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Guilty Gear X/Bloodstained Lineage.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Guilty Gear X/Bloodstained Lineage.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "4e7193d0cae12f2d7356cb65c09d4704",
-    "lufs": "-14.69"
+    "lufs": "-14.69",
+    "lastUpdateDate": "2026-09-12T23:50:44.306Z",
+    "composers": [
+      "Daisuke Ishiwatari"
+    ]
   },
   {
     "uuid": "8bb4b7c6-562e-47fe-813a-45267375e7a8",
