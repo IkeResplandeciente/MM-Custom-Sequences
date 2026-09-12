@@ -90273,16 +90273,17 @@
       "1",
       "5"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Final Fantasy XII/Desperate Fight.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Final Fantasy XII/Desperate Fight.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "bd493e44411ad1a9db64ac9320867101",
-    "lufs": "-12.90"
+    "lufs": "-12.90",
+    "lastUpdateDate": "2026-09-12T19:11:34.428Z",
+    "composers": [
+      "Hitoshi Sakimoto"
+    ]
   },
   {
     "uuid": "792497cd-1d12-4540-b201-d2979635224b",
