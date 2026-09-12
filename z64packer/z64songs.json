@@ -90110,15 +90110,19 @@
       "6"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Fatal Fury/The Sea Knows.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Fatal Fury/The Sea Knows.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "9741358fdc4d610b1049bee8f8742a76",
-    "lufs": "-11.40"
+    "lufs": "-11.40",
+    "lastUpdateDate": "2026-09-12T19:01:05.384Z",
+    "composers": [
+      "Hiroshi Matsumoto",
+      "Kazuhiro Nishida",
+      "Toshikazu Tanaka"
+    ]
   },
   {
     "uuid": "ecce0ba8-7fde-4b49-9ca5-44f448395e5c",
