@@ -91607,22 +91607,24 @@
     "uuid": "5f1e7b18-740b-4cbe-b787-67bd4de1135e",
     "creationDate": "2026-09-11T03:35:17.659Z",
     "game": "Golden Sun",
-    "song": "Tunnel Ruins",
+    "song": "Labyrinth Theme",
     "type": "bgm",
     "categories": [
       "0",
       "2"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "file": "Golden Sun/Tunnel Ruins.mmrs",
+    "file": "Golden Sun/Labyrinth Theme.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Golden Sun/Tunnel Ruins.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "68533837bb046bbb3475e6a304701648",
-    "lufs": "-14.17"
+    "lufs": "-14.17",
+    "lastUpdateDate": "2026-09-12T22:56:57.022Z",
+    "composers": [
+      "Motoi Sakuraba"
+    ]
   },
   {
     "uuid": "01bfac15-96be-41e2-a451-7c68fcad9570",
