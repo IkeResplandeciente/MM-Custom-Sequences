@@ -89705,15 +89705,17 @@
       "3"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Banjo-Tooie/Glitter Gulch Mine (Factory Remix).mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Banjo-Tooie/Glitter Gulch Mine (Factory Remix).mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "bea734a006bdff717ff55b1e54ac5ed9",
-    "lufs": "-15.97"
+    "lufs": "-15.97",
+    "lastUpdateDate": "2026-09-12T17:40:05.671Z",
+    "composers": [
+      "Grant Kirkhope"
+    ]
   },
   {
     "uuid": "1f57dddc-bed4-4558-a104-1cae9adfe79d",
