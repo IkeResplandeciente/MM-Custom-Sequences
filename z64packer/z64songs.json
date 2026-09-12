@@ -69072,7 +69072,8 @@
     "game": "Fire Emblem: The Blazing Blade",
     "song": "Winds Across the Plains",
     "composers": [
-      "Yuka Tsujiyoko, Saki Haruyama"
+      "Yuka Tsujiyoko",
+      "Saki Kasuga"
     ],
     "converters": [
       "acrophobic"
@@ -69090,10 +69091,8 @@
       "4",
       "6"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "lufs": "-20.25"
+    "lufs": "-20.25",
+    "lastUpdateDate": "2026-09-12T22:38:45.431Z"
   },
   {
     "game": "Mario Golf: Toadstool Tour",
