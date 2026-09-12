@@ -91270,16 +91270,17 @@
       "2",
       "7"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Golden Sun/Battle with Saturos & Menardi.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Golden Sun/Battle with Saturos & Menardi.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "96f98bfffd8d75dad8a34541b5db92e4",
-    "lufs": "-11.42"
+    "lufs": "-11.42",
+    "lastUpdateDate": "2026-09-12T22:44:46.301Z",
+    "composers": [
+      "Motoi Sakuraba"
+    ]
   },
   {
     "uuid": "9a7e77a9-32a4-4834-8f14-11644e14dfd8",
