@@ -90425,16 +90425,17 @@
       "5",
       "7"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Fire Emblem Fates/You of the Dark.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Fire Emblem Fates/You of the Dark.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "0ff85e69f67daa5363ff2ebd9d9806d0",
-    "lufs": "-16.23"
+    "lufs": "-16.23",
+    "lastUpdateDate": "2026-09-12T19:12:30.407Z",
+    "composers": [
+      "Masato Kouda"
+    ]
   },
   {
     "uuid": "c93ea0da-b013-4b25-b928-06213cfb1541",
