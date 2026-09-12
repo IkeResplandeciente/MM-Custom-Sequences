@@ -90134,16 +90134,19 @@
       "0",
       "6"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Fatal Fury 2/Pasta.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Fatal Fury 2/Pasta.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "b1a70e018f7ff1e0fc83d99f49a84afd",
-    "lufs": "-15.67"
+    "lufs": "-15.67",
+    "lastUpdateDate": "2026-09-12T19:02:09.956Z",
+    "composers": [
+      "Masahiko Hataya",
+      "Toshio Shimizu",
+      "Yoshihiko Kitamura"
+    ]
   },
   {
     "uuid": "bf91355b-c647-497d-918e-e88dec60cac7",
