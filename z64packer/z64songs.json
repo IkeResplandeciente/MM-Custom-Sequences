@@ -90585,15 +90585,17 @@
       "1"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Fire Emblem The Binding Blade/Frontier.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Fire Emblem The Binding Blade/Frontier.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "93bf85e7b32552fd4656f0abd5b8a89d",
-    "lufs": "-17.48"
+    "lufs": "-17.48",
+    "lastUpdateDate": "2026-09-12T19:53:51.732Z",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ]
   },
   {
     "uuid": "29c3013d-3441-4f9c-9808-33953efe2d6a",
