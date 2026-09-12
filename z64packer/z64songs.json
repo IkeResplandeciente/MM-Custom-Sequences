@@ -90316,16 +90316,17 @@
       "1",
       "5"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Final Fantasy XIII/Eden Under Siege.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Final Fantasy XIII/Eden Under Siege.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "a0849769f87e75c757dd9bd4c5014f84",
-    "lufs": "-11.84"
+    "lufs": "-11.84",
+    "lastUpdateDate": "2026-09-12T19:10:21.411Z",
+    "composers": [
+      "Masashi Hamauzu"
+    ]
   },
   {
     "uuid": "415a66a5-a9eb-4bc2-8759-c459612c0937",
