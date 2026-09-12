@@ -90923,15 +90923,17 @@
       "9"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Fire Emblem The Blazing Blade/Within Sadness.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Fire Emblem The Blazing Blade/Within Sadness.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "7ab5146dab55ecb20092d774b664529f",
-    "lufs": "-20.14"
+    "lufs": "-20.14",
+    "lastUpdateDate": "2026-09-12T22:39:25.881Z",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ]
   },
   {
     "uuid": "7d67a5e0-ffce-4c8e-96d1-39a2e2dbcf58",
