@@ -90650,16 +90650,17 @@
       "0",
       "1"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Fire Emblem The Binding Blade/Shadow Approaches.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Fire Emblem The Binding Blade/Shadow Approaches.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "4cc144c983512acbb480036313ac27dd",
-    "lufs": "-19.84"
+    "lufs": "-19.84",
+    "lastUpdateDate": "2026-09-12T19:56:16.450Z",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ]
   },
   {
     "uuid": "a31c54b9-150f-4aac-8ad5-ae7654de20a3",
