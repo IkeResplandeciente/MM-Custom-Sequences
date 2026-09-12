@@ -90473,16 +90473,17 @@
     "categories": [
       "0"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Fire Emblem Genealogy of the Holy War/The Final Holy War.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Fire Emblem Genealogy of the Holy War/The Final Holy War.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "2264d8c0df587e0404661283168b0b97",
-    "lufs": "-20.08"
+    "lufs": "-20.08",
+    "lastUpdateDate": "2026-09-12T19:38:16.478Z",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ]
   },
   {
     "uuid": "c24a2087-478b-4689-b5bf-b196bb93aec8",
