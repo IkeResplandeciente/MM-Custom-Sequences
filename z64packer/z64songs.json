@@ -91443,16 +91443,17 @@
     "categories": [
       "8"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Golden Sun/Poison Cured.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Golden Sun/Poison Cured.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "9468c9b4096f2affbce7a1a81a6be270",
-    "lufs": "-20.46"
+    "lufs": "-20.46",
+    "lastUpdateDate": "2026-09-12T22:59:34.673Z",
+    "composers": [
+      "Motoi Sakuraba"
+    ]
   },
   {
     "uuid": "22db9e8c-9930-43d6-89c5-9f3cebb5021d",
