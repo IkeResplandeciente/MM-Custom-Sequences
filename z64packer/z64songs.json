@@ -91639,16 +91639,17 @@
     "categories": [
       "8"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Golden Sun/Very Lucky!.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Golden Sun/Very Lucky!.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "bb0022004595c1f79308ae4f310d1da8",
-    "lufs": "-16.67"
+    "lufs": "-16.67",
+    "lastUpdateDate": "2026-09-12T23:00:53.517Z",
+    "composers": [
+      "Motoi Sakuraba"
+    ]
   },
   {
     "uuid": "40bcc0dd-0478-4af2-9145-be70b7621b58",
