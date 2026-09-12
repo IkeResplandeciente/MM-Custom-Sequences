@@ -68423,7 +68423,8 @@
     "game": "Fire Emblem: The Blazing Blade",
     "song": "Distant Travels",
     "composers": [
-      "Yuka Tsujiyoko, Saki Haruyama"
+      "Yuka Tsujiyoko",
+      "Saki Kasuga"
     ],
     "converters": [
       "acrophobic"
@@ -68439,10 +68440,8 @@
       "1",
       "2"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "lufs": "-19.45"
+    "lufs": "-19.45",
+    "lastUpdateDate": "2026-09-12T22:24:47.162Z"
   },
   {
     "game": "Fire Emblem: The Blazing Blade",
