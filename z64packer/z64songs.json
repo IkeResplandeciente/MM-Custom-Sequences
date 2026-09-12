@@ -92108,15 +92108,17 @@
       "6"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Kid Icarus Uprising/Dark Pit's Theme.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Kid Icarus Uprising/Dark Pit's Theme.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "1050e8221b5d0758db4fd47e2c1ea4de",
-    "lufs": "-17.49"
+    "lufs": "-17.49",
+    "lastUpdateDate": "2026-09-12T23:55:20.063Z",
+    "composers": [
+      "Motoi Sakuraba"
+    ]
   },
   {
     "uuid": "ef849a3f-8b32-4f24-a5c6-281073a8944a",
