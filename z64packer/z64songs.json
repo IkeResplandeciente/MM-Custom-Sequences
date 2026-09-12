@@ -91569,16 +91569,17 @@
     "categories": [
       "1"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Golden Sun/Town.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Golden Sun/Town.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "3518f81dfcd4b1bb000986d7b0ce34b2",
-    "lufs": "-18.88"
+    "lufs": "-18.88",
+    "lastUpdateDate": "2026-09-12T22:54:45.985Z",
+    "composers": [
+      "Motoi Sakuraba"
+    ]
   },
   {
     "uuid": "d263d7b0-a2ff-4322-a7eb-9d18e3182927",
