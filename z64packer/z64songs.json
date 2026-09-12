@@ -92983,15 +92983,17 @@
       "1"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Mother 3/Mom's Hometown [2].mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Mother 3/Mom's Hometown [2].mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "8dca2e3bd76f158b96b341df8bd99386",
-    "lufs": "-13.23"
+    "lufs": "-13.23",
+    "lastUpdateDate": "2026-09-12T18:54:01.424Z",
+    "composers": [
+      "Shogo Sakai"
+    ]
   },
   {
     "uuid": "965a51db-cccd-486d-84dd-ea3f397786df",
