@@ -91940,15 +91940,17 @@
       "6"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Guilty Gear XX/Existence.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Guilty Gear XX/Existence.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "9c332822bb87161c5cf6972707f0a1b2",
-    "lufs": "-13.01"
+    "lufs": "-13.01",
+    "lastUpdateDate": "2026-09-12T23:51:10.392Z",
+    "composers": [
+      "Daisuke Ishiwatari"
+    ]
   },
   {
     "uuid": "fd38a55c-bbb0-48c6-9a0d-da9d959248d0",
