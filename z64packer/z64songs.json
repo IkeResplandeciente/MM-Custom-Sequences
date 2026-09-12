@@ -91170,16 +91170,19 @@
       "4",
       "6"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Fire Emblem Three Houses/Teatime Joy.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Fire Emblem Three Houses/Teatime Joy.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "a1275e0e501acb04d112b7373b33b84c",
-    "lufs": "-18.16"
+    "lufs": "-18.16",
+    "lastUpdateDate": "2026-09-12T20:33:10.400Z",
+    "composers": [
+      "Takeru Kanazaki",
+      "Rei Kondoh",
+      "Hiroki Morishita"
+    ]
   },
   {
     "uuid": "8b153fcd-cccd-4ccf-b930-af1b06b2aeb3",
