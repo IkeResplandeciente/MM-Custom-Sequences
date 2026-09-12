@@ -19511,7 +19511,7 @@
     "song": "Inescapable Fate",
     "composers": [
       "Yuka Tsujiyoko",
-      "Saki Haruyama"
+      "Saki Kasuga"
     ],
     "converters": [
       "Seba 20 90"
@@ -19522,12 +19522,11 @@
       "2"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Fire Emblem The Blazing Blade/Inescapable Fate.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Fire Emblem The Blazing Blade/Inescapable Fate.mp3",
     "lufs": "-13.92",
-    "hash": "af4fda657dbc6b2ff04655cf5218de9a"
+    "hash": "af4fda657dbc6b2ff04655cf5218de9a",
+    "lastUpdateDate": "2026-09-12T22:27:13.592Z"
   },
   {
     "uuid": "98badd86-1a60-4095-9d88-7e5cd16e46fb",
