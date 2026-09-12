@@ -18793,15 +18793,16 @@
     ],
     "type": "bgm",
     "categories": [
+      "4",
+      "5",
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Golden Sun The Lost Age/A Powerful Opponent.mmrs",
-    "preview": "https://archive.org/download/japas-jams-previews-2026-08/Golden Sun The Lost Age/A Powerful Opponent.mp3",
-    "lufs": "-11.00",
-    "hash": "334a27c7d814476ebee11dc638c276cb"
+    "preview": "Golden Sun The Lost Age/A Powerful Opponent.mp3",
+    "lufs": "-14.04",
+    "hash": "334a27c7d814476ebee11dc638c276cb",
+    "lastUpdateDate": "2026-09-12T23:43:52.833Z"
   },
   {
     "uuid": "57b516e1-6b6e-47f3-9d72-2b3de1b2da3f",
