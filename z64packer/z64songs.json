@@ -91734,15 +91734,17 @@
       "2"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Golden Sun The Lost Age/Gaia Rock.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Golden Sun The Lost Age/Gaia Rock.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "5bda823e7670cd2419089e7196a178cc",
-    "lufs": "-15.05"
+    "lufs": "-15.05",
+    "lastUpdateDate": "2026-09-12T23:46:10.593Z",
+    "composers": [
+      "Motoi Sakuraba"
+    ]
   },
   {
     "uuid": "52d0f048-f4d2-4a0c-b8b1-9d0b5f2769be",
