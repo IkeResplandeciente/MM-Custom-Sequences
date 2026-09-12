@@ -93006,16 +93006,17 @@
       "1",
       "6"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Mother 3/Monkey's Love Song.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Mother 3/Monkey's Love Song.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "1061e74f0d6719121b13443e9c3efe72",
-    "lufs": "-21.74"
+    "lufs": "-21.74",
+    "lastUpdateDate": "2026-09-12T18:55:00.926Z",
+    "composers": [
+      "Shogo Sakai"
+    ]
   },
   {
     "uuid": "eee12829-8f86-45f8-9554-0a269899b022",
