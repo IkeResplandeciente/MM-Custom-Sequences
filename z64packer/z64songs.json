@@ -91893,15 +91893,17 @@
       "1"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Guilty Gear Isuka/Riches In Me.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Guilty Gear Isuka/Riches In Me.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "832f58ac5b7bb29904376ec7109541bb",
-    "lufs": "-13.51"
+    "lufs": "-13.51",
+    "lastUpdateDate": "2026-09-12T23:50:08.560Z",
+    "composers": [
+      "Daisuke Ishiwatari"
+    ]
   },
   {
     "uuid": "fcc53730-d640-443f-80de-c91514495cfe",
