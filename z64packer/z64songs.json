@@ -89816,15 +89816,17 @@
       "6"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Castlevania Rondo of Blood/Divine Bloodlines.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Castlevania Rondo of Blood/Divine Bloodlines.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "11aecb214727f17625190dc19d05b978",
-    "lufs": "-14.82"
+    "lufs": "-14.82",
+    "lastUpdateDate": "2026-09-12T18:07:09.755Z",
+    "composers": [
+      "Akira Soji"
+    ]
   },
   {
     "uuid": "1df26f9e-cbe2-4f82-adb3-e1a2a2a2061d",
