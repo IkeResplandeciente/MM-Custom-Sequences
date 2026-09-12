@@ -89613,15 +89613,17 @@
       "4"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "3D Pinball Space Cadet/Main Theme.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/3D Pinball Space Cadet/Main Theme.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "b279c9cd61ef1899631984523c9f7a1c",
-    "lufs": "-15.43"
+    "lufs": "-15.43",
+    "lastUpdateDate": "2026-09-12T17:26:26.408Z",
+    "composers": [
+      "Matt Ridgeway"
+    ]
   },
   {
     "uuid": "e158bcca-ea71-4961-8896-f141d46730cb",
