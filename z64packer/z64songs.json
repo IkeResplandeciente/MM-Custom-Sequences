@@ -90722,23 +90722,26 @@
     "uuid": "7ec59a7d-5ac3-40db-bbdb-c198332ac925",
     "creationDate": "2026-09-11T03:35:13.769Z",
     "game": "Fire Emblem: The Blazing Blade",
-    "song": "Blessing of the 8 Generals",
+    "song": "Blessing of the Eight Generals",
     "type": "bgm",
     "categories": [
       "2",
       "5",
       "7"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "file": "Fire Emblem The Blazing Blade/Blessing of the 8 Generals.mmrs",
+    "file": "Fire Emblem The Blazing Blade/Blessing of the Eight Generals.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Fire Emblem The Blazing Blade/Blessing of the 8 Generals.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "555fa83d305b578456f7ad7e6e8e52df",
-    "lufs": "-17.88"
+    "lufs": "-17.88",
+    "lastUpdateDate": "2026-09-12T22:20:26.873Z",
+    "composers": [
+      "Saki Kasuga",
+      "Yuka Tsujiyoko"
+    ],
+    "notes": "A medley that combines \"Blessing of the Eight Generals I\" and \"Blessing of the Eight Generals II\""
   },
   {
     "uuid": "540368f3-6ae5-41a0-9c67-1573b51c96a4",
