@@ -91822,15 +91822,17 @@
       "2"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Golden Sun The Lost Age/Tundaria Tower.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Golden Sun The Lost Age/Tundaria Tower.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "b6748baf76796b5a8cf0c3b57d13f105",
-    "lufs": "-13.33"
+    "lufs": "-13.33",
+    "lastUpdateDate": "2026-09-12T23:48:07.205Z",
+    "composers": [
+      "Motoi Sakuraba"
+    ]
   },
   {
     "uuid": "df16da4b-9125-43d8-833f-188ea3380a20",
