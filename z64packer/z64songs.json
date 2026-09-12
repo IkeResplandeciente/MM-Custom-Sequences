@@ -90607,15 +90607,17 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Fire Emblem The Binding Blade/In the Name of Bern.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Fire Emblem The Binding Blade/In the Name of Bern.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "4e7bb0c48c04b2eb52ca4f7ab80f5eaa",
-    "lufs": "-10.71"
+    "lufs": "-10.71",
+    "lastUpdateDate": "2026-09-12T19:54:48.467Z",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ]
   },
   {
     "uuid": "fc4e2042-8954-402b-bb08-93508cb18851",
