@@ -95834,16 +95834,17 @@
       "6",
       "16"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Virtue's Last Reward/Blue Bird Lamentation.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Virtue's Last Reward/Blue Bird Lamentation.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "3ab077ca0a335e4acd9b77e6900ef476",
-    "lufs": "-21.41"
+    "lufs": "-21.41",
+    "lastUpdateDate": "2026-09-12T17:32:18.436Z",
+    "composers": [
+      "Shinji Hosoe"
+    ]
   },
   {
     "uuid": "f945361c-4efc-4888-8bd1-644a7278b6a7",
