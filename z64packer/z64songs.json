@@ -90250,16 +90250,17 @@
       "0",
       "1"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Final Fantasy IX/Protecting my Devotion.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Final Fantasy IX/Protecting my Devotion.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "34d5041b0a13f557b51948b9bd4ef595",
-    "lufs": "-18.97"
+    "lufs": "-18.97",
+    "lastUpdateDate": "2026-09-12T19:07:46.786Z",
+    "composers": [
+      "Nobuo Uematsu"
+    ]
   },
   {
     "uuid": "6721045e-09e2-4801-aeb1-75baa4072833",
