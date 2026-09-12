@@ -90970,15 +90970,19 @@
       "0"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Fire Emblem The Sacred Stones/Follow Me.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Fire Emblem The Sacred Stones/Follow Me.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "644ecb4df2b836330005861de3765413",
-    "lufs": "-17.58"
+    "lufs": "-17.58",
+    "lastUpdateDate": "2026-09-12T20:16:01.262Z",
+    "composers": [
+      "Saki Kasuga",
+      "Yoshihiko Kitamura",
+      "Yoshito Sekigawa"
+    ]
   },
   {
     "uuid": "4a25a598-59f3-49e0-9b98-2b869a55f58d",
