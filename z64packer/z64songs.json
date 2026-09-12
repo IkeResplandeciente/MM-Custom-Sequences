@@ -90562,16 +90562,17 @@
     "categories": [
       "0"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Fire Emblem The Binding Blade/For The Commanders.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Fire Emblem The Binding Blade/For The Commanders.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "686a77eaa92586180903bd9289723dff",
-    "lufs": "-17.89"
+    "lufs": "-17.89",
+    "lastUpdateDate": "2026-09-12T19:52:55.587Z",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ]
   },
   {
     "uuid": "67aba47b-8d38-4d1c-b1d0-b66c128d8fdf",
