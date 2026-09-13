@@ -95132,15 +95132,17 @@
       "4"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Sonic the Hedgehog 3/Blue Spheres.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Sonic the Hedgehog 3/Blue Spheres.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "b6163c250b5afc144916ed65237c99d0",
-    "lufs": "-15.88"
+    "lufs": "-15.88",
+    "lastUpdateDate": "2026-09-13T04:29:27.787Z",
+    "composers": [
+      "Yoshiaki Kashima"
+    ]
   },
   {
     "uuid": "2f622c34-71a3-49cf-864c-168420265aa8",
