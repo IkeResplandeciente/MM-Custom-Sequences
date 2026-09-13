@@ -95698,15 +95698,17 @@
       "6"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "The Legend of Heroes Trails in the Sky/The Whereabouts of Light.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/The Legend of Heroes Trails in the Sky/The Whereabouts of Light.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "7091fc562c831119130cfaf7b9abc2f6",
-    "lufs": "-21.21"
+    "lufs": "-21.21",
+    "lastUpdateDate": "2026-09-13T05:13:00.649Z",
+    "composers": [
+      "Falcom Sound Team jdk"
+    ]
   },
   {
     "uuid": "e08de4cb-6138-4909-b7a7-7315171e8b5a",
