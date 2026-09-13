@@ -95721,15 +95721,17 @@
       "1"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "The Legend of Zelda A Link Between Worlds/Beginning Field.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/The Legend of Zelda A Link Between Worlds/Beginning Field.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "ba7a2662cb7bcd6f6e2d54e378c7fc61",
-    "lufs": "-18.11"
+    "lufs": "-18.11",
+    "lastUpdateDate": "2026-09-13T05:13:45.430Z",
+    "composers": [
+      "Ryo Nagamatsu"
+    ]
   },
   {
     "uuid": "b8f23525-7f7d-44b0-97a2-5eb8eb56642c",
