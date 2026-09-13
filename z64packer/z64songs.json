@@ -96125,15 +96125,17 @@
       "0"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "The Legend of Zelda Twilight Princess/Hyrule Field Night [2].mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/The Legend of Zelda Twilight Princess/Hyrule Field Night [2].mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "612be92d6a603eff25383ad0d515e9a6",
-    "lufs": "-21.79"
+    "lufs": "-21.79",
+    "lastUpdateDate": "2026-09-13T05:31:19.942Z",
+    "composers": [
+      "Toru Minegishi"
+    ]
   },
   {
     "uuid": "3f1dfd19-c21e-43b0-b18e-bd8c57f70aef",
