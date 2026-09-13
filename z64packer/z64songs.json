@@ -92982,15 +92982,20 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Miitopia/Battle (New Lumos).mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Miitopia/Battle (New Lumos).mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "6fe7b9019d2be11d9cec4c8b6f29a0d6",
-    "lufs": "-12.69"
+    "lufs": "-12.69",
+    "lastUpdateDate": "2026-09-13T01:02:05.535Z",
+    "composers": [
+      "Toshiyuki Sudo",
+      "Shinji Ushiroda",
+      "Yumi Takahashi",
+      "Megumi Inoue"
+    ]
   },
   {
     "uuid": "68db607c-633b-419f-9f91-786c211b27f8",
