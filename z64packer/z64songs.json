@@ -96400,16 +96400,17 @@
       "3",
       "5"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "X/Tunnel Scene.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/X/Tunnel Scene.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "19b71a2da154ca5ad213b630300104b7",
-    "lufs": "-17.93"
+    "lufs": "-17.93",
+    "lastUpdateDate": "2026-09-13T05:37:30.896Z",
+    "composers": [
+      "Kazumi Totaka"
+    ]
   },
   {
     "uuid": "02cf1da4-ef38-497b-939a-0ab935865cd3",
