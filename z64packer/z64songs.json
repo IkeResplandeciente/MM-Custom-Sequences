@@ -92342,16 +92342,17 @@
       "6",
       "16"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Kirby Star Allies/Kind Streets.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Kirby Star Allies/Kind Streets.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "fc08dcb2ed32e82ed0ace630ee41511c",
-    "lufs": "-25.69"
+    "lufs": "-25.69",
+    "lastUpdateDate": "2026-09-13T00:07:17.308Z",
+    "composers": [
+      "Hirokazu Ando"
+    ]
   },
   {
     "uuid": "12da09ca-8d38-455b-a1d2-c321b22fff74",
