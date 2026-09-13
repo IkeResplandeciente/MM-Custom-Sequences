@@ -92529,16 +92529,17 @@
       "1",
       "3"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Live A Live/On Broken Wings.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Live A Live/On Broken Wings.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "8a10cf7f053cb5fda65c66e5ec4ae8a3",
-    "lufs": "-14.77"
+    "lufs": "-14.77",
+    "lastUpdateDate": "2026-09-13T00:19:44.548Z",
+    "composers": [
+      "Yoko Shimomura"
+    ]
   },
   {
     "uuid": "e24a64ee-3669-4ffe-8c2c-704c7368be18",
