@@ -95742,16 +95742,17 @@
     "categories": [
       "6"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "The Legend of Zelda A Link to the Past/Triforce Chamber.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/The Legend of Zelda A Link to the Past/Triforce Chamber.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "6d82a62b1624380c8097a0fe7e2db66c",
-    "lufs": "-21.71"
+    "lufs": "-21.71",
+    "lastUpdateDate": "2026-09-13T05:14:26.804Z",
+    "composers": [
+      "Koji Kondo"
+    ]
   },
   {
     "uuid": "a6d3d35f-857c-4ff5-893a-73069fdbce08",
