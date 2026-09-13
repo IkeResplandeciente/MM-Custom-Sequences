@@ -18923,12 +18923,11 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Metal Gear Rising Revengeance/It Has To Be This Way.mmrs",
-    "preview": "https://archive.org/download/japas-jams-previews-2026-08/Metal Gear Rising Revengeance/It Has To Be This Way.mp3",
-    "lufs": "-14.77",
-    "hash": "99edcfbe9ef6e8c862d72a8ee15be03c"
+    "preview": "Metal Gear Rising Revengeance/It Has To Be This Way.mp3",
+    "lufs": "-12.07",
+    "hash": "99edcfbe9ef6e8c862d72a8ee15be03c",
+    "lastUpdateDate": "2026-09-13T00:56:55.600Z"
   },
   {
     "uuid": "bb61ae9b-05f6-4b02-87d6-571d08173b0a",
