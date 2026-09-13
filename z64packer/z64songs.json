@@ -96263,15 +96263,17 @@
       "16"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Touhou 8 Imperishable Night/Eastern Night.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Touhou 8 Imperishable Night/Eastern Night.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "ed5098fe811c0a48b1654202eba54b01",
-    "lufs": "-15.92"
+    "lufs": "-15.92",
+    "lastUpdateDate": "2026-09-13T05:35:19.299Z",
+    "composers": [
+      "ZUN"
+    ]
   },
   {
     "uuid": "4ab09bce-1a26-4499-82a9-d8729de71d37",
