@@ -96103,16 +96103,17 @@
     "categories": [
       "10"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "The Legend of Zelda The Minish Cap/Title Screen.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/The Legend of Zelda The Minish Cap/Title Screen.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "8c8a390b0caef23d884f9fe042fca30f",
-    "lufs": "-18.89"
+    "lufs": "-18.89",
+    "lastUpdateDate": "2026-09-13T05:30:18.283Z",
+    "composers": [
+      "Mitsuhiko Takano"
+    ]
   },
   {
     "uuid": "4a6af053-64b7-4cc2-9921-a55b3b09968e",
