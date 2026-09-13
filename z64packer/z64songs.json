@@ -94386,15 +94386,17 @@
       "3"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Pokémon X & Y/Kalos Power Plant.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Pokémon X & Y/Kalos Power Plant.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "ab9facffcd20456b3f467e185f2a0837",
-    "lufs": "-14.83"
+    "lufs": "-14.83",
+    "lastUpdateDate": "2026-09-13T03:47:23.470Z",
+    "composers": [
+      "Shota Kageyama"
+    ]
   },
   {
     "uuid": "3e23ed48-c789-4e18-90d0-4c692a5372fe",
