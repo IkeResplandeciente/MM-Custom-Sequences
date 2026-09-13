@@ -94363,15 +94363,17 @@
       "4"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Pokémon X & Y/Bicycle.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Pokémon X & Y/Bicycle.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "cb48fdc4889c28bfc6e9a54ead78a303",
-    "lufs": "-13.01"
+    "lufs": "-13.01",
+    "lastUpdateDate": "2026-09-13T03:47:00.086Z",
+    "composers": [
+      "Shota Kageyama"
+    ]
   },
   {
     "uuid": "0feb5e1c-6739-4f37-a9ae-082ee9d90589",
