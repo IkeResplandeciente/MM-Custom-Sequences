@@ -95502,15 +95502,17 @@
       "16"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Super Smash Bros. Brawl/Ending (Yoshi's Story).mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Super Smash Bros. Brawl/Ending (Yoshi's Story).mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "59e81e1d5f49c3070d6085774de8957a",
-    "lufs": "-13.61"
+    "lufs": "-13.61",
+    "lastUpdateDate": "2026-09-13T05:02:38.994Z",
+    "composers": [
+      "Masafumi Takada"
+    ]
   },
   {
     "uuid": "a53482dd-2082-4c1d-9fb3-e712560f0864",
