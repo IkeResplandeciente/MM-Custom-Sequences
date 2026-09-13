@@ -95621,15 +95621,19 @@
       "6"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "The King of Fighters '96/Arashi no Saxophone 2.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/The King of Fighters '96/Arashi no Saxophone 2.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "e833cc5318533abb5a3a0297eef77e76",
-    "lufs": "-13.26"
+    "lufs": "-13.26",
+    "lastUpdateDate": "2026-09-13T05:08:23.807Z",
+    "composers": [
+      "Akihiro Uchida",
+      "Hideki Asanaka",
+      "Kazuhiro Nishida"
+    ]
   },
   {
     "uuid": "9d141441-0a63-494b-9dc9-295e343f53f5",
