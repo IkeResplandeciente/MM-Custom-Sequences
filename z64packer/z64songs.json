@@ -92899,7 +92899,7 @@
     "uuid": "26da3b25-5fd1-46a0-a1d4-bfb76775c6b8",
     "creationDate": "2026-09-11T03:35:29.316Z",
     "game": "Melty Blood: Type Lumina",
-    "song": "Neco-Arc's Theme",
+    "song": "Great Cat's Village R (Neco-Arc's Theme)",
     "type": "bgm",
     "categories": [
       "3",
@@ -92908,15 +92908,17 @@
       "16"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "file": "Melty Blood Type Lumina/Neco-Arc's Theme.mmrs",
+    "file": "Melty Blood Type Lumina/Great Cat's Village R (Neco-Arc's Theme).mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Melty Blood Type Lumina/Neco-Arc's Theme.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "71ffba0061b631a7f8b02a9b51c7ff13",
-    "lufs": "-17.11"
+    "lufs": "-17.11",
+    "lastUpdateDate": "2026-09-13T00:41:48.031Z",
+    "composers": [
+      "Raito"
+    ]
   },
   {
     "uuid": "9d28d9e4-dd1c-4a9b-8cb2-49b2969e7abf",
