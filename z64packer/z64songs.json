@@ -96092,16 +96092,18 @@
       "0",
       "4"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Wario's Woods/Versus.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Wario's Woods/Versus.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "cd2a6198772fbf193c747f84518011df",
-    "lufs": "-14.84"
+    "lufs": "-14.84",
+    "lastUpdateDate": "2026-09-13T00:39:03.748Z",
+    "composers": [
+      "Hiroaki Suga",
+      "Tadashi Ikegami"
+    ]
   },
   {
     "uuid": "551c6fa0-4085-4607-8b4d-5c7e9ad88d78",
