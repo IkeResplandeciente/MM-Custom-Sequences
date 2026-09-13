@@ -94476,15 +94476,17 @@
       "16"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Psycho Soldier/Psycho Soldier.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Psycho Soldier/Psycho Soldier.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "1db601385f4709353d84549690f14154",
-    "lufs": "-16.31"
+    "lufs": "-16.31",
+    "lastUpdateDate": "2026-09-13T03:50:24.938Z",
+    "composers": [
+      "Yuzo Koshiro"
+    ]
   },
   {
     "uuid": "7e5ba380-0331-493c-a57f-7055423183a2",
