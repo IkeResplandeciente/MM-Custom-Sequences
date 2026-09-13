@@ -95992,15 +95992,17 @@
       "2"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "The Legend of Zelda Majora's Mask/Stone Tower Temple (Dark Remix).mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/The Legend of Zelda Majora's Mask/Stone Tower Temple (Dark Remix).mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "2b52332d8ca71011235990b910f33c21",
-    "lufs": "-15.18"
+    "lufs": "-15.18",
+    "lastUpdateDate": "2026-09-13T05:24:32.207Z",
+    "composers": [
+      "Koji Kondo"
+    ]
   },
   {
     "uuid": "fd499135-e56d-4ca3-b38a-3a95e39b71c2",
