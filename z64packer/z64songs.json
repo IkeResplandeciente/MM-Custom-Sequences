@@ -94274,15 +94274,17 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Pokémon Sun & Moon/Battle! Solgaleo & Lunala.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Pokémon Sun & Moon/Battle! Solgaleo & Lunala.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "d507ddf01a5fb62ffaab1c0ead58b0c5",
-    "lufs": "-17.88"
+    "lufs": "-17.88",
+    "lastUpdateDate": "2026-09-13T03:43:10.966Z",
+    "composers": [
+      "Junichi Masuda"
+    ]
   },
   {
     "uuid": "828e6d0b-e3c6-4043-9363-53be7e48f5d8",
