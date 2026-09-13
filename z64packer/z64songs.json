@@ -92597,15 +92597,18 @@
       "1"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Mario Kart 7/Neo Bowser City.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Mario Kart 7/Neo Bowser City.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "546a7415383e0af4cc66299699433b59",
-    "lufs": "-13.32"
+    "lufs": "-13.32",
+    "lastUpdateDate": "2026-09-13T00:22:38.553Z",
+    "composers": [
+      "Kenta Nagata",
+      "Satomi Terui"
+    ]
   },
   {
     "uuid": "c586f00a-5040-4442-93a1-ed2a7c65eb0e",
