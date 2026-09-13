@@ -95265,15 +95265,17 @@
       "4"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Super Princess Peach/Giddy Sky 1.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Super Princess Peach/Giddy Sky 1.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "6cf0eaec8ce8b12693946a3d17129d5d",
-    "lufs": "-17.39"
+    "lufs": "-17.39",
+    "lastUpdateDate": "2026-09-13T00:36:20.055Z",
+    "composers": [
+      "Akira Fujiwara"
+    ]
   },
   {
     "uuid": "9a1dd2db-5be1-4bfb-9f10-ffbbd65d0b1a",
