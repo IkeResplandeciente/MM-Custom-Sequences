@@ -13918,7 +13918,7 @@
     "game": "Sonic the Hedgehog 3",
     "song": "Endless Mine",
     "composers": [
-      "Jun Senoue"
+      "SEGA"
     ],
     "converters": [
       "Darkychao"
@@ -13931,12 +13931,11 @@
       "13B"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Sonic the Hedgehog 3/Endless Mine.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Sonic the Hedgehog 3/Endless Mine.mp3",
     "lufs": "-22.51",
-    "hash": "caa846e891ab3ffab414bd3580792a52"
+    "hash": "caa846e891ab3ffab414bd3580792a52",
+    "lastUpdateDate": "2026-09-13T04:38:57.396Z"
   },
   {
     "uuid": "31c7e500-4e7c-4190-9815-b40caef51fcf",
