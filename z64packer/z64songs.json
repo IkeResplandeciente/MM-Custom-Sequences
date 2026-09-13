@@ -92295,16 +92295,17 @@
     "categories": [
       "8"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Kirby Star Allies/Helpful Advice.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Kirby Star Allies/Helpful Advice.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "18e49a24ac4ab1a1144d4adf3f9c5523",
-    "lufs": "-25.08"
+    "lufs": "-25.08",
+    "lastUpdateDate": "2026-09-13T00:10:31.741Z",
+    "composers": [
+      "Hirokazu Ando"
+    ]
   },
   {
     "uuid": "3422abb4-ff6d-4cd6-bdbe-73a53fd5ad78",
