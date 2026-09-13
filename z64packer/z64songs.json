@@ -93304,15 +93304,17 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Octopath Traveler/Battle 2.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Octopath Traveler/Battle 2.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "aaf21136300b252330b662a19f1b21f2",
-    "lufs": "-16.55"
+    "lufs": "-16.55",
+    "lastUpdateDate": "2026-09-13T01:08:11.920Z",
+    "composers": [
+      "Yasunori Nishiki"
+    ]
   },
   {
     "uuid": "e667795f-61b1-4f6b-967b-685f04fab795",
