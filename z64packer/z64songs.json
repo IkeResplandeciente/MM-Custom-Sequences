@@ -94780,15 +94780,17 @@
       "1"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Sonic Adventure/Mechanical Resonance ...for Final Egg.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Sonic Adventure/Mechanical Resonance ...for Final Egg.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "813f8f95bb0039bd3aeebd728f91027d",
-    "lufs": "-13.22"
+    "lufs": "-13.22",
+    "lastUpdateDate": "2026-09-13T04:05:27.724Z",
+    "composers": [
+      "Kenichi Tokoi"
+    ]
   },
   {
     "uuid": "c2a08f04-645c-426d-a1cc-984e8857f918",
