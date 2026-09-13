@@ -95787,15 +95787,17 @@
       "2"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "The Legend of Zelda Breath of the Wild/Attack on Vah Rudania.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/The Legend of Zelda Breath of the Wild/Attack on Vah Rudania.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "fa5cb59347680cbf79ca30aa7e2bb7dd",
-    "lufs": "-17.23"
+    "lufs": "-17.23",
+    "lastUpdateDate": "2026-09-13T05:19:53.992Z",
+    "composers": [
+      "Yasuaki Iwata"
+    ]
   },
   {
     "uuid": "aa039dec-2318-4cc9-8089-fb19d84ecf03",
