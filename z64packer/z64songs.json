@@ -95525,16 +95525,17 @@
       "3",
       "6"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Super Smash Bros. Brawl/The Roost.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Super Smash Bros. Brawl/The Roost.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "29419b3362fa0814e4dbd35b4d8130cc",
-    "lufs": "-20.02"
+    "lufs": "-20.02",
+    "lastUpdateDate": "2026-09-13T05:04:00.701Z",
+    "composers": [
+      "Kazumi Totaka"
+    ]
   },
   {
     "uuid": "edd54dca-838d-44bd-bb1a-4044ba4a4970",
