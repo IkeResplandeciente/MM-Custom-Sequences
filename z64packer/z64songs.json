@@ -94757,15 +94757,17 @@
       "4"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Sonic & Knuckles Collection/Launch Base Zone (Act 2).mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Sonic & Knuckles Collection/Launch Base Zone (Act 2).mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "54076e1e15dc35c296525c30f411c747",
-    "lufs": "-15.57"
+    "lufs": "-15.57",
+    "lastUpdateDate": "2026-09-13T04:04:28.287Z",
+    "composers": [
+      "SEGA"
+    ]
   },
   {
     "uuid": "79d17b82-6660-46f8-9683-045778c6e2ec",
