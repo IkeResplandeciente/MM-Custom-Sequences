@@ -92805,22 +92805,25 @@
     "uuid": "820cb817-8918-45b9-97d5-5dfb0f84f5dd",
     "creationDate": "2026-09-11T03:35:27.571Z",
     "game": "Mario Kart: Super Circuit",
-    "song": "Sky Garden [2]",
+    "song": "Sky Garden (DS version)",
     "type": "bgm",
     "categories": [
       "0",
       "4"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "file": "Mario Kart Super Circuit/Sky Garden [2].mmrs",
+    "file": "Mario Kart Super Circuit/Sky Garden (DS version).mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Mario Kart Super Circuit/Sky Garden [2].mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "f0c843d7c69d7878a27b9defc83f3e4e",
-    "lufs": "-15.69"
+    "lufs": "-15.69",
+    "lastUpdateDate": "2026-09-13T00:31:49.582Z",
+    "composers": [
+      "Shinobu Tanaka"
+    ],
+    "notes": "Based on the version from Mario Kart DS, arranged by Shinobu Tanaka"
   },
   {
     "uuid": "5026be23-cf8b-4cf3-9ddb-a4581f1c8b1d",
