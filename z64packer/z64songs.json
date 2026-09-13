@@ -92763,15 +92763,17 @@
       "4"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Mario Kart DS/Peach Gardens.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Mario Kart DS/Peach Gardens.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "3805ac6bc448541dca205bc9edb8eac0",
-    "lufs": "-14.31"
+    "lufs": "-14.31",
+    "lastUpdateDate": "2026-09-13T00:28:41.250Z",
+    "composers": [
+      "Shinobu Tanaka"
+    ]
   },
   {
     "uuid": "b0b0a0ba-e209-4a23-a02f-afb79a88c347",
