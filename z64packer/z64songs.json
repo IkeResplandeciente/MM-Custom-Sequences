@@ -95853,15 +95853,17 @@
       "6"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "The Legend of Zelda Breath of the Wild/Hateno Village.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/The Legend of Zelda Breath of the Wild/Hateno Village.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "9384886663523778e4edd439ce55abe6",
-    "lufs": "-18.40"
+    "lufs": "-18.40",
+    "lastUpdateDate": "2026-09-13T05:17:48.728Z",
+    "composers": [
+      "Yasuaki Iwata"
+    ]
   },
   {
     "uuid": "9aa336ed-6f1d-44cf-9a02-5f91f3fd62a9",
