@@ -94572,15 +94572,17 @@
       "2"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Shadow the Hedgehog/Lava Shelter.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Shadow the Hedgehog/Lava Shelter.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "4a017bae0b4ed03885a2fda1a5176736",
-    "lufs": "-18.73"
+    "lufs": "-18.73",
+    "lastUpdateDate": "2026-09-13T03:57:20.944Z",
+    "composers": [
+      "Jun Senoue"
+    ]
   },
   {
     "uuid": "73a21ee1-d322-4077-8358-ea65ab2aff58",
