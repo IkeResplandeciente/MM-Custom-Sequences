@@ -89603,15 +89603,17 @@
       "6"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Atelier Ayesha The Alchemist of Dusk/Reminiscent Hill.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Atelier Ayesha The Alchemist of Dusk/Reminiscent Hill.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "b707c21f80db8d431f79d8e60eb4400f",
-    "lufs": "-14.69"
+    "lufs": "-14.69",
+    "lastUpdateDate": "2026-09-13T03:24:22.771Z",
+    "composers": [
+      "Daisuke Achiwa"
+    ]
   },
   {
     "uuid": "a9023e1a-3664-414b-8746-22f0f42a2b00",
