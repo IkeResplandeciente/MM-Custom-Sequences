@@ -93997,15 +93997,17 @@
       "1"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Pokémon Diamond, Pearl & Platinum/Eterna City.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Pokémon Diamond, Pearl & Platinum/Eterna City.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "6934f812e12f66d004523e2964df5dd7",
-    "lufs": "-15.18"
+    "lufs": "-15.18",
+    "lastUpdateDate": "2026-09-13T03:30:24.501Z",
+    "composers": [
+      "Go Ichinose"
+    ]
   },
   {
     "uuid": "7ec724b8-ba77-4219-871d-f486d53cd10f",
