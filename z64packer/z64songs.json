@@ -95547,15 +95547,17 @@
       "2"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Super Smash Bros. Melee/Brinstar Depths.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Super Smash Bros. Melee/Brinstar Depths.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "5fba3172eadd174638e7c3a0c846f6ef",
-    "lufs": "-20.66"
+    "lufs": "-20.66",
+    "lastUpdateDate": "2026-09-13T05:06:04.730Z",
+    "composers": [
+      "Shogo Sakai"
+    ]
   },
   {
     "uuid": "7c6ed270-f43f-4999-a15a-cbe7ff56a6ae",
