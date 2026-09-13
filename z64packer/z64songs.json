@@ -92574,15 +92574,17 @@
       "4"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Lunar Silver Star Story/Tamur.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Lunar Silver Star Story/Tamur.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "b78aca5a99301f4f28dfaaabd0617b28",
-    "lufs": "-18.22"
+    "lufs": "-18.22",
+    "lastUpdateDate": "2026-09-13T00:21:45.399Z",
+    "composers": [
+      "Noriyuki Iwadare"
+    ]
   },
   {
     "uuid": "bcadc938-e49b-47ab-ae7c-99d2c7d286a2",
