@@ -95085,16 +95085,17 @@
       "2",
       "3"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Sonic the Hedgehog/Scrap Brain Zone.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Sonic the Hedgehog/Scrap Brain Zone.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "fcf54d6ce39cbe644b976ffbe73595ad",
-    "lufs": "-11.30"
+    "lufs": "-11.30",
+    "lastUpdateDate": "2026-09-13T04:24:17.682Z",
+    "composers": [
+      "Masato Nakamura"
+    ]
   },
   {
     "uuid": "a6b80034-8c40-471a-bb85-b257456bdd66",
