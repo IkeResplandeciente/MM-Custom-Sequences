@@ -92204,16 +92204,17 @@
       "4",
       "6"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Kingdom Hearts II/Olympus Coliseum.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Kingdom Hearts II/Olympus Coliseum.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "e9eefe56e50f7d281b8c514b9895c807",
-    "lufs": "-14.58"
+    "lufs": "-14.58",
+    "lastUpdateDate": "2026-09-13T00:01:03.409Z",
+    "composers": [
+      "Yoko Shimomura"
+    ]
   },
   {
     "uuid": "81d9b8ac-d3c7-475d-baf4-ce212895f8c8",
