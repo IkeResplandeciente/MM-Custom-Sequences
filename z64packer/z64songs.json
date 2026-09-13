@@ -95810,16 +95810,17 @@
       "5",
       "7"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "The Legend of Zelda Breath of the Wild/Attack on Vah Ruta.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/The Legend of Zelda Breath of the Wild/Attack on Vah Ruta.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "a2e0db1e3be1eadea210d17e9f78e26d",
-    "lufs": "-15.53"
+    "lufs": "-15.53",
+    "lastUpdateDate": "2026-09-13T05:22:12.682Z",
+    "composers": [
+      "Yasuaki Iwata"
+    ]
   },
   {
     "uuid": "f3432a04-bda0-42ad-8aa4-4657e8713476",
