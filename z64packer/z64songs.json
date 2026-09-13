@@ -95945,15 +95945,17 @@
       "2"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "The Legend of Zelda Breath of the Wild/Vah Rudania Interior.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/The Legend of Zelda Breath of the Wild/Vah Rudania Interior.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "e64d6e38050db5a8f61a710272bfea52",
-    "lufs": "-14.39"
+    "lufs": "-14.39",
+    "lastUpdateDate": "2026-09-13T05:20:38.126Z",
+    "composers": [
+      "Yasuaki Iwata"
+    ]
   },
   {
     "uuid": "dd49c5d2-4d2a-4a1d-92d0-c3690be20ac2",
