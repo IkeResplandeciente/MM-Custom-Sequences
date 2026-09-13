@@ -95476,15 +95476,17 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Super Smash Bros. Brawl/Dialga & Palkia Battle at Spear Pillar!.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Super Smash Bros. Brawl/Dialga & Palkia Battle at Spear Pillar!.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "59b36d2b0d42628f488324f4ee0a92e9",
-    "lufs": "-13.95"
+    "lufs": "-13.95",
+    "lastUpdateDate": "2026-09-13T04:59:34.405Z",
+    "composers": [
+      "Takahiro Nishi"
+    ]
   },
   {
     "uuid": "82001277-e547-4ba7-a3f7-1579dc6b6159",
