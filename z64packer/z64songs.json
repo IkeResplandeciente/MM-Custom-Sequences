@@ -94922,15 +94922,17 @@
       "16"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Sonic CD/Metallic Madness Good Future (JP).mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Sonic CD/Metallic Madness Good Future (JP).mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "a5357c1cca0df05814a08286f0b86a03",
-    "lufs": "-18.51"
+    "lufs": "-18.51",
+    "lastUpdateDate": "2026-09-13T04:17:52.558Z",
+    "composers": [
+      "Naofumi Hataya"
+    ]
   },
   {
     "uuid": "c3e0f8a7-7324-4e99-b606-87661ec5a454",
