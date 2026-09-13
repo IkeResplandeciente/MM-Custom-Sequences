@@ -92458,15 +92458,17 @@
       "16"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Kirby's Epic Yarn/Snowy Fields.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Kirby's Epic Yarn/Snowy Fields.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "4d01ff6d711a47253cd0659dd55cc479",
-    "lufs": "-14.45"
+    "lufs": "-14.45",
+    "lastUpdateDate": "2026-09-13T00:15:41.318Z",
+    "composers": [
+      "Tomoya Tomita"
+    ]
   },
   {
     "uuid": "ee87bc61-0764-4fbb-8beb-d954f5183df4",
