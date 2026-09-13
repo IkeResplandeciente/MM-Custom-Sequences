@@ -95311,15 +95311,18 @@
       "0"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Super Mario 3D World + Bowser's Fury/Scamper Shores.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Super Mario 3D World + Bowser's Fury/Scamper Shores.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "e99a1ac0ac51282e67e882eac55a2d81",
-    "lufs": "-13.88"
+    "lufs": "-13.88",
+    "lastUpdateDate": "2026-09-13T04:52:26.161Z",
+    "composers": [
+      "Daisuke Matsuoka",
+      "James Phillipsen"
+    ]
   },
   {
     "uuid": "3beba953-69a1-4bd5-9422-f48f650d2d02",
