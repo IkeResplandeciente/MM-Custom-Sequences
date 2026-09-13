@@ -95038,15 +95038,17 @@
       "1"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Sonic Mania/Stardust Speedway Zone Act 1.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Sonic Mania/Stardust Speedway Zone Act 1.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "fee63cd8318d99f169b377ac23b4717d",
-    "lufs": "-14.22"
+    "lufs": "-14.22",
+    "lastUpdateDate": "2026-09-13T04:20:03.024Z",
+    "composers": [
+      "Tee Lopes"
+    ]
   },
   {
     "uuid": "3549f119-06af-4d98-9cd5-4d987d015278",
