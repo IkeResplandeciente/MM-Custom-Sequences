@@ -95407,15 +95407,17 @@
       "4"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Super Mario World/Bonus Game [2].mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Super Mario World/Bonus Game [2].mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "c97054df467a025e37c417eec423b23f",
-    "lufs": "-19.44"
+    "lufs": "-19.44",
+    "lastUpdateDate": "2026-09-13T04:56:58.273Z",
+    "composers": [
+      "Koji Kondo"
+    ]
   },
   {
     "uuid": "95a54118-7796-4b6e-955b-48655151f2ac",
