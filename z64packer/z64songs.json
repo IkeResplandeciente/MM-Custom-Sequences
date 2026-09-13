@@ -96240,16 +96240,17 @@
       "0",
       "2"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Touhou 6 The Embodiment of Scarlet Devil/Shanghai Alice of Meiji 17.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Touhou 6 The Embodiment of Scarlet Devil/Shanghai Alice of Meiji 17.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "54af6f46e4bd9f289f8362b66172d280",
-    "lufs": "-15.56"
+    "lufs": "-15.56",
+    "lastUpdateDate": "2026-09-13T05:34:44.202Z",
+    "composers": [
+      "ZUN"
+    ]
   },
   {
     "uuid": "f86932f3-dbb8-4a25-b16b-b0e6d0317ff3",
