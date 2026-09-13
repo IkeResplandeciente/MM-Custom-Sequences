@@ -93351,15 +93351,17 @@
       "6"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Parasite Eve/Arise Within You.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Parasite Eve/Arise Within You.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "d393747c686b795c11b492b022ae81a7",
-    "lufs": "-11.53"
+    "lufs": "-11.53",
+    "lastUpdateDate": "2026-09-13T01:09:56.045Z",
+    "composers": [
+      "Yoko Shimomura"
+    ]
   },
   {
     "uuid": "4a113f7e-1b2b-4096-b1a5-cf8644503ac7",
