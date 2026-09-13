@@ -94709,16 +94709,17 @@
     "categories": [
       "8"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Sonic & Knuckles/Extra Life.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Sonic & Knuckles/Extra Life.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "679b8980b983d6a9169119852460ca1d",
-    "lufs": "-14.46"
+    "lufs": "-14.46",
+    "lastUpdateDate": "2026-09-13T05:00:42.465Z",
+    "composers": [
+      "Howard Drossin"
+    ]
   },
   {
     "uuid": "fab480e2-4ad9-46a4-b95c-cb1d4f2ea812",
