@@ -94180,16 +94180,18 @@
       "8",
       "10"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Pokémon Diamond, Pearl & Platinum/Victory! Team Galactic.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Pokémon Diamond, Pearl & Platinum/Victory! Team Galactic.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "a91879da263bef2cb2042a6837acc47f",
-    "lufs": "-13.53"
+    "lufs": "-13.53",
+    "lastUpdateDate": "2026-09-13T03:39:11.958Z",
+    "composers": [
+      "Go Ichinose",
+      "Hitomi Sato"
+    ]
   },
   {
     "uuid": "cd3627bf-86a0-497b-8d0d-3d0f701f3052",
