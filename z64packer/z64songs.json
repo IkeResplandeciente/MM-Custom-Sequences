@@ -96447,15 +96447,17 @@
       "10"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Yakuza 0/24-Hour Cinderella (Finale).mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Yakuza 0/24-Hour Cinderella (Finale).mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "5558bf864acfeedb9b33bcf4e2737cd6",
-    "lufs": "-14.28"
+    "lufs": "-14.28",
+    "lastUpdateDate": "2026-09-13T05:39:44.333Z",
+    "composers": [
+      "Zenta Tsuchihashi"
+    ]
   },
   {
     "uuid": "9ad1067c-75d5-4ee0-a72c-976b4c9e27ab",
