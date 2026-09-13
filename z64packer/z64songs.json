@@ -96148,16 +96148,17 @@
       "1",
       "4"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Touhou 10 Mountain of Faith/Native Faith.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Touhou 10 Mountain of Faith/Native Faith.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "d1c9d64c890735d4123429013dff3af6",
-    "lufs": "-15.09"
+    "lufs": "-15.09",
+    "lastUpdateDate": "2026-09-13T05:32:24.341Z",
+    "composers": [
+      "ZUN"
+    ]
   },
   {
     "uuid": "7483beb9-7de6-4b60-b3af-0638d06d59c7",
