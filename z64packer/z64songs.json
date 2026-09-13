@@ -93609,16 +93609,17 @@
       "6",
       "16"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Persona 5/Swear to My Bones.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Persona 5/Swear to My Bones.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "93a90a884330bc49990176faf50ab854",
-    "lufs": "-19.20"
+    "lufs": "-19.20",
+    "lastUpdateDate": "2026-09-13T01:26:49.664Z",
+    "composers": [
+      "Shoji Meguro"
+    ]
   },
   {
     "uuid": "3fea316f-1cb5-439c-adbe-5d79f8aee91a",
