@@ -95382,15 +95382,19 @@
       "3"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Super Mario Odyssey/New Donk City.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Super Mario Odyssey/New Donk City.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "b2281cfdfb39ce70e2ff1ba7e42d094b",
-    "lufs": "-16.09"
+    "lufs": "-16.09",
+    "lastUpdateDate": "2026-09-13T04:56:03.949Z",
+    "composers": [
+      "Naoto Kubo",
+      "Shiho Fujii",
+      "Koji Kondo"
+    ]
   },
   {
     "uuid": "064841a2-c56d-4ea9-9961-f38ceffc4962",
