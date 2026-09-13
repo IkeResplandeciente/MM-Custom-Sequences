@@ -95172,16 +95172,17 @@
       "5",
       "7"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Star Fox/Boss (Titania).mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Star Fox/Boss (Titania).mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "45ecd7cbb707cdb543ebc5d88f448d59",
-    "lufs": "-16.07"
+    "lufs": "-16.07",
+    "lastUpdateDate": "2026-09-13T04:43:09.667Z",
+    "composers": [
+      "Hajime Hirasawa"
+    ]
   },
   {
     "uuid": "548bd0c8-1c12-4ab7-b6fc-4b429c8c86b6",
