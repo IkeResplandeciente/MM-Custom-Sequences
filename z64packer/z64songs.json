@@ -95970,16 +95970,17 @@
     "categories": [
       "0"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "The Legend of Zelda Echoes of Wisdom/Hyrule Field.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/The Legend of Zelda Echoes of Wisdom/Hyrule Field.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "b32f4612234d8a18ebf90bebde6ca2cb",
-    "lufs": "-20.86"
+    "lufs": "-20.86",
+    "lastUpdateDate": "2026-09-13T05:23:18.379Z",
+    "composers": [
+      "Nintendo"
+    ]
   },
   {
     "uuid": "cf190f77-044c-4694-a88d-8be3c5d9556c",
