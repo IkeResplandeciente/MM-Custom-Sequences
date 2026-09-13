@@ -94021,16 +94021,18 @@
       "8",
       "10"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Pokémon Diamond, Pearl & Platinum/Obtained a TM!.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Pokémon Diamond, Pearl & Platinum/Obtained a TM!.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "b379e4d513d1b58a1ff0c42498e5c1e3",
-    "lufs": "-16.92"
+    "lufs": "-16.92",
+    "lastUpdateDate": "2026-09-13T03:38:19.627Z",
+    "composers": [
+      "Morikazu Aoki",
+      "Go Ichinose"
+    ]
   },
   {
     "uuid": "8b37a919-e327-4afd-91b7-d53493a0b245",
