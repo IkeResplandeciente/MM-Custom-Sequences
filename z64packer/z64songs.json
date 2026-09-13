@@ -94154,15 +94154,17 @@
       "1"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Pokémon Diamond, Pearl & Platinum/Veilstone City.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Pokémon Diamond, Pearl & Platinum/Veilstone City.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "e30f2e18670db6a0a56c35df9b3c8d93",
-    "lufs": "-13.96"
+    "lufs": "-13.96",
+    "lastUpdateDate": "2026-09-13T03:35:55.576Z",
+    "composers": [
+      "Go Ichinose"
+    ]
   },
   {
     "uuid": "e24aaa15-8e59-401b-9ced-3ecd76bee292",
