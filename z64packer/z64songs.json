@@ -94340,15 +94340,17 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Pokémon X & Y/Battle! Trainer.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Pokémon X & Y/Battle! Trainer.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "03c84fd491c1d069138d258ec62363a4",
-    "lufs": "-11.89"
+    "lufs": "-11.89",
+    "lastUpdateDate": "2026-09-13T03:46:12.405Z",
+    "composers": [
+      "Junichi Masuda"
+    ]
   },
   {
     "uuid": "599fcc06-d516-4fe2-a081-cf2b3cd5ce8d",
