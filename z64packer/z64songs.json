@@ -92741,16 +92741,17 @@
     "categories": [
       "8"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Mario Kart DS/Finished 1st.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Mario Kart DS/Finished 1st.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "91523aaf418a6aa2a72dbfeaaedc0276",
-    "lufs": "-13.34"
+    "lufs": "-13.34",
+    "lastUpdateDate": "2026-09-13T00:30:11.700Z",
+    "composers": [
+      "Shinobu Tanaka"
+    ]
   },
   {
     "uuid": "490cb74e-ff43-46cc-a7f6-8cffe7d7b316",
