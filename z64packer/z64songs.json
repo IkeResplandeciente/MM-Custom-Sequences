@@ -94731,16 +94731,17 @@
       "0",
       "4"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Sonic & Knuckles/Unused Theme.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Sonic & Knuckles/Unused Theme.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "c0795d5d774e6d67234243608469c533",
-    "lufs": "-16.71"
+    "lufs": "-16.71",
+    "lastUpdateDate": "2026-09-13T05:01:26.520Z",
+    "composers": [
+      "SEGA"
+    ]
   },
   {
     "uuid": "0db4a3d1-82a3-4534-82b9-db8692216b89",
