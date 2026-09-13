@@ -95195,16 +95195,17 @@
       "5",
       "7"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Star Fox Assault/Star Wolf.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Star Fox Assault/Star Wolf.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "fdf68e3b0bf4178e08cd75be3602f73d",
-    "lufs": "-15.06"
+    "lufs": "-15.06",
+    "lastUpdateDate": "2026-09-13T04:44:03.592Z",
+    "composers": [
+      "Hajime Wakai"
+    ]
   },
   {
     "uuid": "89db5b8e-883f-40bb-9d9a-adf972961d2b",
