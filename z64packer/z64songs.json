@@ -93887,15 +93887,17 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Pokémon Diamond, Pearl & Platinum/Battle! Cyrus.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Pokémon Diamond, Pearl & Platinum/Battle! Cyrus.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "de147de5368c1b9f4c3040541f6aef1e",
-    "lufs": "-12.41"
+    "lufs": "-12.41",
+    "lastUpdateDate": "2026-09-13T03:26:51.097Z",
+    "composers": [
+      "Junichi Masuda"
+    ]
   },
   {
     "uuid": "44b460d9-36ba-488c-a2ef-0b7b85285447",
