@@ -94065,15 +94065,17 @@
       "16"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Pokémon Diamond, Pearl & Platinum/Route 209.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Pokémon Diamond, Pearl & Platinum/Route 209.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "8f189463668a6fdcd637df30d5c169ea",
-    "lufs": "-19.72"
+    "lufs": "-19.72",
+    "lastUpdateDate": "2026-09-13T03:31:53.062Z",
+    "composers": [
+      "Go Ichinose"
+    ]
   },
   {
     "uuid": "e4a28bcc-9159-43cc-accf-482ec79da5da",
