@@ -93909,15 +93909,17 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Pokémon Diamond, Pearl & Platinum/Battle! Team Galactic.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Pokémon Diamond, Pearl & Platinum/Battle! Team Galactic.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "5a5959f5bdc8b7dcf484fe9b1dc4a3ff",
-    "lufs": "-11.61"
+    "lufs": "-11.61",
+    "lastUpdateDate": "2026-09-13T03:27:35.666Z",
+    "composers": [
+      "Junichi Masuda"
+    ]
   },
   {
     "uuid": "82e7b150-c048-4508-ada9-748b0b9da73f",
