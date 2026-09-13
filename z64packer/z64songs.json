@@ -93862,15 +93862,17 @@
       "1"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Plants vs. Zombies/Watery Graves.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Plants vs. Zombies/Watery Graves.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "870d33e7028722c698595895e1ae9104",
-    "lufs": "-14.32"
+    "lufs": "-14.32",
+    "lastUpdateDate": "2026-09-13T01:37:25.067Z",
+    "composers": [
+      "Shoji Meguro"
+    ]
   },
   {
     "uuid": "c9a86bd3-bd4b-48bb-b9f9-4cad9dcd50b3",
