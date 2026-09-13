@@ -92228,15 +92228,17 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Kirby Star Allies/A Battle of Friends and Bonds 2.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Kirby Star Allies/A Battle of Friends and Bonds 2.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "f880f2addb255b81c26d644ef8eb4337",
-    "lufs": "-15.80"
+    "lufs": "-15.80",
+    "lastUpdateDate": "2026-09-13T00:02:44.715Z",
+    "composers": [
+      "Hirokazu Ando"
+    ]
   },
   {
     "uuid": "f19a70dd-b34c-4182-9941-97c915af2d08",
