@@ -93518,16 +93518,17 @@
       "1",
       "3"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Persona 3 Portable/Sun.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Persona 3 Portable/Sun.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "f00e4bc675cbdb5a3ee4b41a9d2cba42",
-    "lufs": "-18.16"
+    "lufs": "-18.16",
+    "lastUpdateDate": "2026-09-13T01:23:31.776Z",
+    "composers": [
+      "Shoji Meguro"
+    ]
   },
   {
     "uuid": "8eb3a5d7-44bc-4290-891e-deadebc592b5",
