@@ -96171,15 +96171,17 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Touhou 14 Double Dealing Character/Dullahan Under the Willows.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Touhou 14 Double Dealing Character/Dullahan Under the Willows.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "4baa8856012a0740536afeddaac2db73",
-    "lufs": "-13.52"
+    "lufs": "-13.52",
+    "lastUpdateDate": "2026-09-13T05:33:03.959Z",
+    "composers": [
+      "ZUN"
+    ]
   },
   {
     "uuid": "1202e877-3e98-4778-8f61-a0bf81057b08",
