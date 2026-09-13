@@ -19058,7 +19058,7 @@
     "game": "Sonic the Hedgehog 3",
     "song": "Desert Palace Zone",
     "composers": [
-      "Brad Buxer"
+      "SEGA"
     ],
     "converters": [
       "Seba 20 90"
@@ -19070,13 +19070,11 @@
       "3",
       "4"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Sonic the Hedgehog 3/Desert Palace Zone.mmrs",
-    "preview": "https://archive.org/download/japas-jams-previews-2026-08/Sonic the Hedgehog 3/Desert Palace Zone.mp3",
-    "lufs": "-17.20",
-    "hash": "1dad64583a72327b7402dc64bc4eb5e3"
+    "preview": "Sonic the Hedgehog 3/Desert Palace Zone.mp3",
+    "lufs": "-15.79",
+    "hash": "1dad64583a72327b7402dc64bc4eb5e3",
+    "lastUpdateDate": "2026-09-13T04:37:15.630Z"
   },
   {
     "uuid": "0c7d3b91-67a5-40aa-a5b9-9f6a6fae092f",
