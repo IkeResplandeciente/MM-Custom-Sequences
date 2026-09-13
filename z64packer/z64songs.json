@@ -94524,15 +94524,19 @@
       "4"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Puyo Puyo Tsu/The Top Floor.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Puyo Puyo Tsu/The Top Floor.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "ae7ee94612df2d8ccf783d85d2de1fc1",
-    "lufs": "-14.80"
+    "lufs": "-14.80",
+    "lastUpdateDate": "2026-09-13T03:52:10.811Z",
+    "composers": [
+      "Tomonori Minami",
+      "Einosuke Nagao",
+      "Tsuyoshi Matsushima"
+    ]
   },
   {
     "uuid": "b84a43aa-22ba-4176-86cf-c7b4885ec33f",
