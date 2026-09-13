@@ -94596,15 +94596,17 @@
       "16"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Shadow the Hedgehog/Never Turn Back.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Shadow the Hedgehog/Never Turn Back.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "67a9619bddb6aa60a91c3ae0eef36cb0",
-    "lufs": "-15.55"
+    "lufs": "-15.55",
+    "lastUpdateDate": "2026-09-13T03:58:53.158Z",
+    "composers": [
+      "Crush 40"
+    ]
   },
   {
     "uuid": "fcdab9d9-6a91-405b-adf2-e28aaf975173",
