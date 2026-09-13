@@ -95674,15 +95674,17 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "The Legend of Heroes Trails in the Sky/Sophisticated Fight.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/The Legend of Heroes Trails in the Sky/Sophisticated Fight.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "1d2a5feb65bc6a139cee6882cb602e96",
-    "lufs": "-12.30"
+    "lufs": "-12.30",
+    "lastUpdateDate": "2026-09-13T05:11:35.708Z",
+    "composers": [
+      "Falcom Sound Team jdk"
+    ]
   },
   {
     "uuid": "08d2ef36-f464-471d-aa24-34a1a12402e4",
