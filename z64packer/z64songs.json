@@ -92484,15 +92484,17 @@
       "2"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Last Bible III/Dragon's Fang.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Last Bible III/Dragon's Fang.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "dfeac2745b1e46defbc50304393532bc",
-    "lufs": "-17.84"
+    "lufs": "-17.84",
+    "lastUpdateDate": "2026-09-13T00:17:57.283Z",
+    "composers": [
+      "Hiroyuki Yanada"
+    ]
   },
   {
     "uuid": "755f47f4-3459-4aaf-880d-67d893009678",
