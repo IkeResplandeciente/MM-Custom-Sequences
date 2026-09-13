@@ -94041,15 +94041,17 @@
       "1"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Pokémon Diamond, Pearl & Platinum/Route 203.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Pokémon Diamond, Pearl & Platinum/Route 203.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "2def10af91fe6b69c1cae60df5206984",
-    "lufs": "-15.40"
+    "lufs": "-15.40",
+    "lastUpdateDate": "2026-09-13T03:31:13.055Z",
+    "composers": [
+      "Go Ichinose"
+    ]
   },
   {
     "uuid": "53d91e2f-963b-4630-867d-7ab9bed34785",
