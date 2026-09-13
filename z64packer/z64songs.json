@@ -95897,16 +95897,17 @@
       "0",
       "2"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "The Legend of Zelda Breath of the Wild/The Lost Woods.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/The Legend of Zelda Breath of the Wild/The Lost Woods.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "6ca5b78e125957f1a4b23d612b5d5e74",
-    "lufs": "-20.95"
+    "lufs": "-20.95",
+    "lastUpdateDate": "2026-09-13T05:17:06.015Z",
+    "composers": [
+      "Manaka Kataoka"
+    ]
   },
   {
     "uuid": "1666d5c9-f7ed-4b33-a2a8-c45ba0b96540",
