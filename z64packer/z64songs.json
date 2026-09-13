@@ -92506,15 +92506,17 @@
       "2"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Last Bible III/Felest Tower.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Last Bible III/Felest Tower.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "1021645560efc6227daa5b56b1046113",
-    "lufs": "-18.85"
+    "lufs": "-18.85",
+    "lastUpdateDate": "2026-09-13T00:18:29.067Z",
+    "composers": [
+      "Hiroyuki Yanada"
+    ]
   },
   {
     "uuid": "4a8d51e2-f140-4fbb-8282-c2e307d9b978",
