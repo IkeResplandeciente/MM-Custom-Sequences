@@ -94110,15 +94110,17 @@
       "1"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Pokémon Diamond, Pearl & Platinum/Sunyshore City.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Pokémon Diamond, Pearl & Platinum/Sunyshore City.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "a65467f20a48cd0c9170619460fa1541",
-    "lufs": "-15.42"
+    "lufs": "-15.42",
+    "lastUpdateDate": "2026-09-13T03:34:16.130Z",
+    "composers": [
+      "Go Ichinose"
+    ]
   },
   {
     "uuid": "40ac453b-619d-4b1e-8b5c-2006031867df",
