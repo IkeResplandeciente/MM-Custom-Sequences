@@ -92389,15 +92389,17 @@
       "6"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Kirby Star Allies/Winds across Earthfall.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Kirby Star Allies/Winds across Earthfall.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "e5784418d2168836bcc06a2f8fddf3ef",
-    "lufs": "-15.47"
+    "lufs": "-15.47",
+    "lastUpdateDate": "2026-09-13T00:11:24.980Z",
+    "composers": [
+      "Yuuta Ogasawara"
+    ]
   },
   {
     "uuid": "e6279e1d-41da-4cb9-93bf-53c2921c07ce",
