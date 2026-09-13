@@ -92319,15 +92319,17 @@
       "4"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Kirby Star Allies/Honey Hill.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Kirby Star Allies/Honey Hill.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "8cb252b65fc0ed66c5c7107435319802",
-    "lufs": "-17.41"
+    "lufs": "-17.41",
+    "lastUpdateDate": "2026-09-13T00:06:29.759Z",
+    "composers": [
+      "Hirokazu Ando"
+    ]
   },
   {
     "uuid": "36ab4b7a-d604-46cf-887d-1c480a62d02e",
