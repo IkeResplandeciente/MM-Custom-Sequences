@@ -94297,15 +94297,17 @@
       "2"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Pokémon X & Y/Anistar City.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Pokémon X & Y/Anistar City.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "ca965972b7c6d1a839a946a1e70a4d3b",
-    "lufs": "-17.81"
+    "lufs": "-17.81",
+    "lastUpdateDate": "2026-09-13T03:44:06.209Z",
+    "composers": [
+      "Minako Adachi"
+    ]
   },
   {
     "uuid": "9e5a9ec7-b4e9-4fb6-884a-9b62fcffdffd",
