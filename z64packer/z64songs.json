@@ -95062,15 +95062,17 @@
       "3"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Sonic Mania/Tabloid Jargon - Press Garden Zone Act 1.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Sonic Mania/Tabloid Jargon - Press Garden Zone Act 1.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "9c41addf38c6ea1883f671c8b68b3d09",
-    "lufs": "-13.96"
+    "lufs": "-13.96",
+    "lastUpdateDate": "2026-09-13T04:22:18.407Z",
+    "composers": [
+      "Tee Lopes"
+    ]
   },
   {
     "uuid": "4e4082a7-6358-4119-be1e-88efbdfa749d",
