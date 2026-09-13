@@ -93952,16 +93952,18 @@
       "8",
       "10"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Pokémon Diamond, Pearl & Platinum/Congratulations! Your Pokémon Evolved!.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Pokémon Diamond, Pearl & Platinum/Congratulations! Your Pokémon Evolved!.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "a716c8ac65f1059f44eed30d5882c9a8",
-    "lufs": "-13.35"
+    "lufs": "-13.35",
+    "lastUpdateDate": "2026-09-13T03:37:07.764Z",
+    "composers": [
+      "Morikazu Aoki",
+      "Go Ichinose"
+    ]
   },
   {
     "uuid": "7dd6c727-7c20-42f5-99a2-5de8c77cbeec",
