@@ -96496,16 +96496,17 @@
       "3",
       "6"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Your Turn To Die -Death Game By Majority-/Clown's Song.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Your Turn To Die -Death Game By Majority-/Clown's Song.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "8d30a92491b20c17567a10a3a88ad04e",
-    "lufs": "-19.25"
+    "lufs": "-19.25",
+    "lastUpdateDate": "2026-09-13T05:40:49.126Z",
+    "composers": [
+      "Nankidai"
+    ]
   },
   {
     "uuid": "32857e7d-25bf-495d-93f2-f23ebc86d9f5",
