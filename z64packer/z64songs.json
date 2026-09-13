@@ -93725,15 +93725,17 @@
       "0"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Pikmin 2/Perplexing Pool (Olimar).mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Pikmin 2/Perplexing Pool (Olimar).mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "ae6fc06f4cb7fbb05e0242a2f18cf181",
-    "lufs": "-16.21"
+    "lufs": "-16.21",
+    "lastUpdateDate": "2026-09-13T01:31:18.071Z",
+    "composers": [
+      "Hajime Wakai"
+    ]
   },
   {
     "uuid": "1a9b3c11-f937-48aa-b68e-de63c85a8fc2",
