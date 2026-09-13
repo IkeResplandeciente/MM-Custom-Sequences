@@ -93632,15 +93632,17 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Persona 5/Will Power.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Persona 5/Will Power.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "5eaa7cf45fdd0ad18c6c22285b6277d5",
-    "lufs": "-16.25"
+    "lufs": "-16.25",
+    "lastUpdateDate": "2026-09-13T01:27:51.894Z",
+    "composers": [
+      "Shoji Meguro"
+    ]
   },
   {
     "uuid": "12a2a9b1-1fbe-48ba-bd09-3f118c6eb778",
