@@ -70054,10 +70054,11 @@
       "7",
       "11A"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "lufs": "-12.82"
+    "lufs": "-12.82",
+    "lastUpdateDate": "2026-09-13T00:00:12.399Z",
+    "composers": [
+      "Yoko Shimomura"
+    ]
   },
   {
     "game": "The Binding of Isaac: Antibirth",
