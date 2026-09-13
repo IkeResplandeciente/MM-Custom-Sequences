@@ -94663,15 +94663,18 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Skies of Arcadia/Bombardment.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Skies of Arcadia/Bombardment.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "686d45d1ccbda3e7e1e6d3a71150c7d1",
-    "lufs": "-14.36"
+    "lufs": "-14.36",
+    "lastUpdateDate": "2026-09-13T03:56:23.026Z",
+    "composers": [
+      "Yutaka Minobe",
+      "Tatsuyuki Maeda"
+    ]
   },
   {
     "uuid": "a69d36c3-d64a-4a3f-9fb9-a5e4e174d97a",
