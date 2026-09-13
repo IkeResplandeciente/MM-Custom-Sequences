@@ -94639,15 +94639,17 @@
       "2"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Shin Megami Tensei IV/Tokyo [2].mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Shin Megami Tensei IV/Tokyo [2].mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "ec2715aeea2ddbfc7628179abd1843a5",
-    "lufs": "-18.61"
+    "lufs": "-18.61",
+    "lastUpdateDate": "2026-09-13T03:55:23.026Z",
+    "composers": [
+      "Ryota Kozuka"
+    ]
   },
   {
     "uuid": "80c4b516-4696-4f05-8b8f-dcd5e0daa666",
