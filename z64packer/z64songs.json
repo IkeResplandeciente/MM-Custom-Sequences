@@ -93471,15 +93471,17 @@
       "3"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Persona 3/When The Moon's Reaching Out Stars.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Persona 3/When The Moon's Reaching Out Stars.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "b7b0ed58b00f072d4e22852401397d77",
-    "lufs": "-14.84"
+    "lufs": "-14.84",
+    "lastUpdateDate": "2026-09-13T01:21:50.675Z",
+    "composers": [
+      "Shoji Meguro"
+    ]
   },
   {
     "uuid": "64a01f53-2ea4-4e73-8dbf-c476cad9f68b",
