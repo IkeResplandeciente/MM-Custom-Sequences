@@ -92645,15 +92645,18 @@
       "4"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Mario Kart 7/Rosalina's Ice World.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Mario Kart 7/Rosalina's Ice World.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "e48bd655b1018f2553a5a2428a3610cc",
-    "lufs": "-15.35"
+    "lufs": "-15.35",
+    "lastUpdateDate": "2026-09-13T00:23:13.334Z",
+    "composers": [
+      "Kenta Nagata",
+      "Satomi Terui"
+    ]
   },
   {
     "uuid": "9f7725fd-61e7-4ead-8b33-a53b33cc4b16",
