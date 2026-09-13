@@ -96218,15 +96218,17 @@
       "2"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Touhou 3 The Phantasmagoria of Dim.Dream/Reincarnation.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Touhou 3 The Phantasmagoria of Dim.Dream/Reincarnation.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "edcfbd6bfde5d00fb070b3903af1086a",
-    "lufs": "-16.53"
+    "lufs": "-16.53",
+    "lastUpdateDate": "2026-09-13T05:34:10.790Z",
+    "composers": [
+      "ZUN"
+    ]
   },
   {
     "uuid": "66781a43-aa26-4adc-9298-22dc050df9ce",
