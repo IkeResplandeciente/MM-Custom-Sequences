@@ -94549,15 +94549,17 @@
       "2"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "RuneScape/Lava Falls.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/RuneScape/Lava Falls.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "c597a56f3434a8475c84da68e143413a",
-    "lufs": "-18.35"
+    "lufs": "-18.35",
+    "lastUpdateDate": "2026-09-13T03:53:25.052Z",
+    "composers": [
+      "Adam Bond"
+    ]
   },
   {
     "uuid": "6111c0c7-89d3-4afb-8d23-87380572e47e",
