@@ -95015,15 +95015,17 @@
       "1"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Sonic Forces/Sunset Heights.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Sonic Forces/Sunset Heights.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "c8ef2305846481fe205e63b958448c15",
-    "lufs": "-14.17"
+    "lufs": "-14.17",
+    "lastUpdateDate": "2026-09-13T04:18:44.787Z",
+    "composers": [
+      "Tomoya Ohtani"
+    ]
   },
   {
     "uuid": "c876a64c-e02e-4427-a0cc-c30397274eb7",
