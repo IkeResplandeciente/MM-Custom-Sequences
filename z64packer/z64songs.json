@@ -92252,15 +92252,17 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Kirby Star Allies/Dark & Cloudy.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Kirby Star Allies/Dark & Cloudy.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "0cac53561cd973616762418ec69bbffd",
-    "lufs": "-14.62"
+    "lufs": "-14.62",
+    "lastUpdateDate": "2026-09-13T00:05:19.330Z",
+    "composers": [
+      "Hirokazu Ando"
+    ]
   },
   {
     "uuid": "0b986285-78c3-46ee-ab3a-303824fd65ee",
