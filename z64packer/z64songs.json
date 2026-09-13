@@ -96285,16 +96285,17 @@
       "0",
       "2"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Touhou 8 Imperishable Night/Nostalgic Blood of the East ~ Old World.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Touhou 8 Imperishable Night/Nostalgic Blood of the East ~ Old World.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "9a3ab4d0d5a5d075cc7dd3caf0411b84",
-    "lufs": "-14.39"
+    "lufs": "-14.39",
+    "lastUpdateDate": "2026-09-13T05:35:53.918Z",
+    "composers": [
+      "ZUN"
+    ]
   },
   {
     "uuid": "a80df576-38bc-4bb6-ae9b-5575015134bd",
