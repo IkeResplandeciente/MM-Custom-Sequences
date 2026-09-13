@@ -92788,15 +92788,17 @@
       "16"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Mario Kart DS/Rainbow Road.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Mario Kart DS/Rainbow Road.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "162897106cc81872b60f7216b52f9d38",
-    "lufs": "-14.44"
+    "lufs": "-14.44",
+    "lastUpdateDate": "2026-09-13T00:29:38.005Z",
+    "composers": [
+      "Shinobu Tanaka"
+    ]
   },
   {
     "uuid": "820cb817-8918-45b9-97d5-5dfb0f84f5dd",
