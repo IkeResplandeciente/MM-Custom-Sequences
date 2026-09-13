@@ -96424,15 +96424,17 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Xenoblade Chronicles 2 Torna ~ The Golden Country/Battle!! Torna.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Xenoblade Chronicles 2 Torna ~ The Golden Country/Battle!! Torna.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "aeef0ca3dd6d0e1c4adcfce30420068e",
-    "lufs": "-15.84"
+    "lufs": "-15.84",
+    "lastUpdateDate": "2026-09-13T05:38:15.784Z",
+    "composers": [
+      "Kenji Hiramatsu"
+    ]
   },
   {
     "uuid": "37f38ebc-b98e-48ea-97d2-8bd04316d611",
