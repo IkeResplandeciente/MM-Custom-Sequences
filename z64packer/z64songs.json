@@ -95266,16 +95266,17 @@
       "1",
       "4"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Super Mario 3D World/Super Bell Hill.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Super Mario 3D World/Super Bell Hill.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "bd976ebe358dc58035cac77c145611ce",
-    "lufs": "-16.76"
+    "lufs": "-16.76",
+    "lastUpdateDate": "2026-09-13T04:50:49.417Z",
+    "composers": [
+      "Mahito Yokota"
+    ]
   },
   {
     "uuid": "71881b29-062a-48bc-ba5b-b96aa42f3862",
