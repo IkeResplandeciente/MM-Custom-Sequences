@@ -94428,16 +94428,17 @@
     "categories": [
       "1"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Pokémon X & Y/Lumiose City.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Pokémon X & Y/Lumiose City.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "5240515c9a0602e1f989fda0b675c160",
-    "lufs": "-12.35"
+    "lufs": "-12.35",
+    "lastUpdateDate": "2026-09-13T03:48:24.303Z",
+    "composers": [
+      "Shota Kageyama"
+    ]
   },
   {
     "uuid": "30d2276f-9b73-4c2a-bf90-1b1170358f54",
