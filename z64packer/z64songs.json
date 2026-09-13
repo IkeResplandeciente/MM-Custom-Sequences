@@ -95574,15 +95574,17 @@
       "16"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Super Smash Bros. Melee/Fire Emblem.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Super Smash Bros. Melee/Fire Emblem.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "1a5e9182c1464fa91b626d662a1e8c28",
-    "lufs": "-14.21"
+    "lufs": "-14.21",
+    "lastUpdateDate": "2026-09-13T05:06:52.479Z",
+    "composers": [
+      "Shogo Sakai"
+    ]
   },
   {
     "uuid": "c04883f9-fecd-4d0b-9389-c16755571fbe",
