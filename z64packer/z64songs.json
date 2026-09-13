@@ -95831,15 +95831,17 @@
       "6"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "The Legend of Zelda Breath of the Wild/Goron City.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/The Legend of Zelda Breath of the Wild/Goron City.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "cf8230b6893763d4dc68d09f06c525e9",
-    "lufs": "-16.12"
+    "lufs": "-16.12",
+    "lastUpdateDate": "2026-09-13T05:18:49.037Z",
+    "composers": [
+      "Yasuaki Iwata"
+    ]
   },
   {
     "uuid": "280319d6-1181-4b78-a14c-89e7f2541fcb",
