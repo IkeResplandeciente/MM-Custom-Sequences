@@ -93974,15 +93974,18 @@
       "4"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Pokémon Diamond, Pearl & Platinum/Contest Hall.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Pokémon Diamond, Pearl & Platinum/Contest Hall.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "0d03c50c8c657e6ddeba3c362cc818e8",
-    "lufs": "-13.90"
+    "lufs": "-13.90",
+    "lastUpdateDate": "2026-09-13T03:29:36.282Z",
+    "composers": [
+      "Go Ichinose",
+      "Hitomi Sato"
+    ]
   },
   {
     "uuid": "2d58a18b-40fd-4d41-9e9d-fa110b9c804b",
