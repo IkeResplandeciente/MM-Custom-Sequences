@@ -95219,15 +95219,17 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Star Ocean/For Achieve.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Star Ocean/For Achieve.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "7bd91b49a695796334d1013430aaa582",
-    "lufs": "-15.75"
+    "lufs": "-15.75",
+    "lastUpdateDate": "2026-09-13T04:44:47.423Z",
+    "composers": [
+      "Motoi Sakuraba"
+    ]
   },
   {
     "uuid": "49f15a90-b95a-4413-a79e-cd6c856fa1ed",
