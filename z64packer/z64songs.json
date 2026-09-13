@@ -96306,16 +96306,17 @@
     "categories": [
       "2"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Tower of Heaven/Luna Ascension.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Tower of Heaven/Luna Ascension.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "36e8b0568015cf9454ebbe3da254e65d",
-    "lufs": "-14.33"
+    "lufs": "-14.33",
+    "lastUpdateDate": "2026-09-13T05:36:42.130Z",
+    "composers": [
+      "flashygoodness"
+    ]
   },
   {
     "uuid": "ca2f7073-0a36-4a6c-b7f7-fd1e06ff229d",
