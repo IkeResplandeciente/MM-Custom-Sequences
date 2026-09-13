@@ -95333,16 +95333,17 @@
     "categories": [
       "9"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Super Mario Bros. 3/Death.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Super Mario Bros. 3/Death.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "71fa9453de2650618d9a6db5f448c801",
-    "lufs": "-16.57"
+    "lufs": "-16.57",
+    "lastUpdateDate": "2026-09-13T04:53:06.478Z",
+    "composers": [
+      "Koji Kondo"
+    ]
   },
   {
     "uuid": "89b3e382-c8ed-483d-aff2-33e7295970d9",
