@@ -92623,15 +92623,18 @@
       "16"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Mario Kart 7/Rainbow Road.mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Mario Kart 7/Rainbow Road.mp3",
     "converters": [
       "Seba 20 90"
     ],
     "hash": "7758a82da84a5cff7397fdb227efc79d",
-    "lufs": "-15.86"
+    "lufs": "-15.86",
+    "lastUpdateDate": "2026-09-13T00:24:28.345Z",
+    "composers": [
+      "Kenta Nagata",
+      "Satomi Terui"
+    ]
   },
   {
     "uuid": "9c73743d-00b1-47f3-ac61-0aafdb665e7d",
