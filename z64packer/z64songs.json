@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -97489,6 +97489,58 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "hash": "55f1bee97d6e8dad87d3463e0c576441"
+  },
+  {
+    "uuid": "66e42d7b-1432-4dc4-9414-f2012ad99b69",
+    "creationDate": "2026-09-21T02:21:35.448Z",
+    "game": "ULTRAKILL",
+    "song": "War Without Reason",
+    "composers": [
+      "Arsi \"Hakita\" Patala"
+    ],
+    "converters": [
+      "Asticky"
+    ],
+    "notes": "As this song is way too long to be heard in its entirety during normal gameplay, this song is divided into sections that play in a random order, similar to Hyrule Field in Ocarina of Time. A preview of this random order in-game can be seen at https://youtu.be/yTSEp9FUOQo?is=aI0g4k6pYHzZuMit.\n\nA version that plays in the OST/ULTRAKILL gameplay order is also available.",
+    "lufs": "-12.91",
+    "file": "ULTRAKILL/War Without Reason.mmrs",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4",
+      "5",
+      "7",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "preview": "ULTRAKILL/War Without Reason.mp3"
+  },
+  {
+    "uuid": "72efd49a-19cd-4478-a61e-43dfc8e635f1",
+    "creationDate": "2026-09-21T02:24:30.284Z",
+    "game": "ULTRAKILL",
+    "song": "War Without Reason (OST Order)",
+    "composers": [
+      "Arsi \"Hakita\" Patala"
+    ],
+    "converters": [
+      "Asticky"
+    ],
+    "notes": "As this song is way too long to be heard in its entirety during normal gameplay, another version of this song is available, in which it is divided into sections that play in a random order (similar to Hyrule Field in Ocarina of Time). Check that version out (please i worked really hard on it)",
+    "lufs": "-12.95",
+    "file": "ULTRAKILL/War Without Reason (OST Order).mmrs",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4",
+      "5",
+      "7",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "preview": "ULTRAKILL/War Without Reason (OST Order).mp3"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
