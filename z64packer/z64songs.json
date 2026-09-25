@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -97514,7 +97514,9 @@
     ],
     "usesCustomBank": true,
     "usesCustomSamples": true,
-    "preview": "ULTRAKILL/War Without Reason.mp3"
+    "preview": "ULTRAKILL/War Without Reason.mp3",
+    "usesFormmask": false,
+    "hash": "e3dc55b3291e8795f48eefeeba2e954f"
   },
   {
     "uuid": "72efd49a-19cd-4478-a61e-43dfc8e635f1",
@@ -97540,7 +97542,9 @@
     ],
     "usesCustomBank": true,
     "usesCustomSamples": true,
-    "preview": "ULTRAKILL/War Without Reason (OST Order).mp3"
+    "preview": "ULTRAKILL/War Without Reason (OST Order).mp3",
+    "usesFormmask": false,
+    "hash": "f0a1cb0ecbbcf1d228865608039ef8ce"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
