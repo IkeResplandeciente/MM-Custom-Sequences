@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -104458,7 +104458,12 @@
       "0",
       "1"
     ],
-    "preview": "Xenoblade Chronicles/Colony 9.mp3"
+    "preview": "Xenoblade Chronicles/Colony 9.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "hash": "5b38271fd3e186755b325472886f748e"
   },
   {
     "uuid": "d2e357c7-6740-4d8b-9b0f-ca52ac128d11",
@@ -104477,7 +104482,12 @@
     "categories": [
       "7"
     ],
-    "preview": "Kirby's Adventure/Nightmare Battle.mp3"
+    "preview": "Kirby's Adventure/Nightmare Battle.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": true,
+    "hash": "f80f42326dd483cf706fea5b58d1942b"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
