@@ -85901,7 +85901,7 @@
   },
   {
     "game": "Fire Emblem: Genealogy of the Holy War",
-    "song": "Beloved One",
+    "song": "Beloved One (Choir)",
     "composers": [
       "Yuka Tsujiyoko"
     ],
@@ -85911,7 +85911,7 @@
     "uuid": "c64dbeb3-dd00-4473-8339-502b6e54f091",
     "hash": "545eb65f1f97255f1ed35782878b4459",
     "creationDate": "2026-07-28T03:33:56.104Z",
-    "file": "Fire Emblem Genealogy of the Holy War/Beloved One.mmrs",
+    "file": "Fire Emblem Genealogy of the Holy War/Beloved One (Choir).mmrs",
     "preview": "https://archive.org/download/japas-jams-previews-2026-08/Fire Emblem Genealogy of the Holy War/Beloved One.mp3",
     "type": "bgm",
     "categories": [
@@ -85920,10 +85920,9 @@
       "128"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "lufs": "-19.02",
-    "isCrossGame": false
+    "lastUpdateDate": "2026-10-26T23:09:39.656Z",
+    "notes": "Due to how this song was programmed, it will sound different than intended when played on \"Ocarina of Time\" (on platforms such as the OoTMM Combo randomizer)."
   },
   {
     "game": "Silent Hill 2",
