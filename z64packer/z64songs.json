@@ -104484,5 +104484,28 @@
     "isCrossGame": true,
     "hash": "f80f42326dd483cf706fea5b58d1942b"
   },
+  {
+    "uuid": "19003356-c1f9-4ca4-b54d-4491da873dac",
+    "creationDate": "2026-10-26T23:35:22.391Z",
+    "game": "Fire Emblem: Genealogy of the Holy War",
+    "song": "Beloved One (Guitar)",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ],
+    "converters": [
+      "ruugosus"
+    ],
+    "notes": "This variant is less faithful to the original song, but has no compatibility issues",
+    "lufs": "-19.17",
+    "file": "Fire Emblem Genealogy of the Holy War/Beloved One (Guitar).mmrs",
+    "type": "bgm",
+    "categories": [
+      "3",
+      "118",
+      "128"
+    ],
+    "usesCustomBank": true,
+    "preview": "Fire Emblem Genealogy of the Holy War/Beloved One (Guitar).mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
