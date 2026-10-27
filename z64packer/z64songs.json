@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -20164,8 +20164,12 @@
     "file": "Fire Emblem Radiant Dawn/Proud Flight.mmrs",
     "preview": "Fire Emblem Radiant Dawn/Proud Flight.mp3",
     "lufs": "-14.69",
-    "hash": "6296385295521900918caddef8995e10",
-    "lastUpdateDate": "2026-10-26T22:53:43.837Z"
+    "hash": "112faf0f890a5dda57458632453e8ed0",
+    "lastUpdateDate": "2026-10-26T22:53:43.837Z",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": true
   },
   {
     "uuid": "54f33e6f-440d-423b-86ee-8d30ba34f6bd",
@@ -85922,7 +85926,10 @@
     "usesCustomBank": true,
     "lufs": "-19.02",
     "lastUpdateDate": "2026-10-26T23:09:39.656Z",
-    "notes": "Due to how this song was programmed, it will sound different than intended when played on \"Ocarina of Time\" (on platforms such as the OoTMM Combo randomizer)."
+    "notes": "Due to how this song was programmed, it will sound different than intended when played on \"Ocarina of Time\" (on platforms such as the OoTMM Combo randomizer).",
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false
   },
   {
     "game": "Silent Hill 2",
@@ -104505,7 +104512,11 @@
       "128"
     ],
     "usesCustomBank": true,
-    "preview": "Fire Emblem Genealogy of the Holy War/Beloved One (Guitar).mp3"
+    "preview": "Fire Emblem Genealogy of the Holy War/Beloved One (Guitar).mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "isCrossGame": false,
+    "hash": "216d027dbb9f08f373b6c0c5cdaeff0f"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
